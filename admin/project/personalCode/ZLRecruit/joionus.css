@@ -1,0 +1,60 @@
+@charset "UTF-8";
+body{ margin:0; padding:0;}
+ul{ margin:0; padding:0;}
+li{ list-style:none;}
+*{ font-family:微软雅黑;}
+dl,dt,dd{ display:block; margin:0; padding:0;}
+a{ text-decoration:none;}
+.top{ width:100%; height:36px;line-height:36px; font-size:14px; color:#221815; background-color:#efefef;}
+.top li div{float:right;}
+.top li{ width:1024px; margin:auto; background-color:#F00;}
+.help{ width:77px; background-image: url(../img/help.png); background-repeat:no-repeat; background-position:60px 12px; margin-left:38px;}
+.help a{ color:#221815;}
+.phone{ width:190px; background-image: url(../img/phone.png); background-repeat:no-repeat; background-position:4px 12px;}
+.phone span{ margin-left:24px; color:#221815;}
+
+.navcenter{ width:1024px; margin:auto; height:84px;}
+.navcenter dt{ margin-top:20px; float:left}
+.navcenter dd{ float:right; margin-top:28px; line-height:32px; margin-left:34px; }
+.navcenter dd a{ color:#221815;}
+.navcenter .current a{color:#ed0c36;}
+.navcenter .current{ border-bottom:3px solid #ed0c36;}
+.navcenter dd:hover a{ color:#ed0c36;}
+
+.photo{ width:1184px; margin:auto;}
+.container{ width:1024px; margin:auto; margin-top:50px;}
+.container a{color:#595757;}
+.leftnav{ float:left;}
+.leftcurrent a{ color:#ed0c36;}
+
+.leftnav dl{ width:198px; height:54px; border:1px solid #b5b5b6;}
+.leftnav dt{ float:left; line-height:38px; border-bottom:2px solid #b5b5b6; margin-left:20px;}
+.leftnav dd{ float:left; line-height:38px;}
+.leftcurrent dt{border-bottom:2px solid #ed0c36;}
+.rightinfor{ float:right; width:770px; margin-bottom:160px;}
+.rightinforshort{ float:right; width:770px; }
+.rightinforsshort{ float:right; width:770px; margin-bottom:300px;}
+
+/*这里是二级目录*/
+.line{ width:770px; height:36px; border-bottom:1px solid #dcdddd;}
+.line dt{ float:left; width:275px; text-align:center; line-height:36px; font-size:14px; font-family:微软雅黑; color:#595757;}
+.line dd{ float:left; width:155px; text-align:center; line-height:36px;  font-size:14px; font-family:微软雅黑; color:#595757;}
+.line a{color:#595757;}
+/*这里是二级目录*/
+/*这里是三级详细*/
+.firstline dt{ font-size:15px; font-weight:bold; color:#1498f0;}
+.firstline dd{ line-height:26px; margin-top:6px; font-size:14px; color:#595757; font-family:微软雅黑;}
+.firstline{ border-bottom:1px solid #b5b5b6; padding-bottom:20px; }
+
+.secondline{ border-bottom:1px solid #b5b5b6; padding-bottom:20px;}
+.secondline li{ line-height:26px; margin-top:6px; font-size:14px; color:#595757; font-family:微软雅黑;}
+.contactme{ margin-top:20px; line-height:26px; color:#595757; font-size:14px;}
+.contactme span{ color:#1498f0;}
+
+.footer{ background-color:#f6f6f7; width:100%; height:180px; clear:both;}
+.footermain{ width:1024px; margin:auto;}
+.footerleft{ float:left;}
+.footerright{ float:right; margin-top:35px;}
+.footerleft dt{ margin-top:26px;}
+.footerleft dd{ font-size:14px; font-family:微软雅黑; color:#898989; line-height:28px;}
+.footerleft dd img{margin-left:8px;}

@@ -1,0 +1,105 @@
+@charset "UTF-8";
+body{
+    margin:0; padding:0;
+}
+*{
+    font-family:微软雅黑;
+}
+img{
+    border:none
+}
+a{
+    text-decoration:none;
+}
+h3,p{
+    margin: 0;
+    padding: 0;
+}
+ul,li{
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+.photo{
+    position: relative;
+    width: 93%;
+    margin:auto;
+}
+.photo img{
+    width: 100%;
+}
+.photo .photo-tips{
+    position: absolute;
+    top: 23%;
+    left: 12%;
+    font-family: PingFangSC-Semibold;
+    color: #1F74DB;
+}
+/*屏幕自适应*/
+@media (min-width: 1024px){
+    .photo .photo-tips{font-size: 24px}
+    .photo .photo-tips p>span{font-size: 14px;}
+} /*>=1024的设备*/
+
+@media (min-width: 1100px) {
+    .photo .photo-tips{font-size: 26px}
+    .photo .photo-tips p>span{font-size: 16px;}
+} /*>=1100的设备*/
+@media (min-width: 1280px) {
+    .photo .photo-tips{font-size: 28px;}
+    .photo .photo-tips p>span{font-size: 18px;}
+} /*>=1280的设备*/
+
+@media (min-width: 1366px) {
+    .photo .photo-tips{font-size: 30px;}
+    .photo .photo-tips p>span{font-size: 20px;}
+}
+@media (min-width: 1440px) {
+    .photo .photo-tips{font-size: 32px;}
+    .photo .photo-tips p>span{font-size: 22px;}
+}
+.photo .photo-tips h3{
+    letter-spacing: 2px;
+}
+.photo .photo-tips p>span{
+    display: inline-block;
+    width: 220px;
+    font-family: PingFangSC-Medium;
+    color: #1F74DB;
+    letter-spacing: 0;
+    font-weight: bold;
+}
+.container h3{
+    font-weight: normal;
+    text-align: center;
+    font-family: PingFangSC-Regular;
+    font-size: 24px;
+    color: #606060;
+    letter-spacing: 0;
+    margin:22px 0 30px 0;
+}
+.choose-plan{
+    text-align: center;
+}
+.choose-plan li{
+    display: inline-block;
+    width: 139px;
+    margin: 15px 70px;
+}
+.choose-plan li p{
+    text-align: center;
+    font-size: 16px;
+}
+.choose-more{
+    text-align: center;
+    margin: 25px 0 69px 0;
+    font-family: PingFangSC-Regular;
+    font-size: 16px;
+    color: #999999;
+    letter-spacing: 0;
+}
+.choose-more .through{
+    width: 50px;
+    display: inline-block;
+    border-top: 1px solid #999999;
+}

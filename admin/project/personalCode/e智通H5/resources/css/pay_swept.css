@@ -1,0 +1,430 @@
+body{
+    background: #4995EF;
+}
+/*头部样式*/
+.page-top{
+    background: #4995EF;
+    color: #fff;
+}
+.page-top .top-image>a{
+    color: #fff;
+}
+.page-top h3{
+    color: #fff;
+}
+.pay-tips{
+    color: #fff;
+    text-align: center;
+    /*margin-top: 1rem;*/
+    margin-bottom: 0.5rem;
+    font-size: 1.2rem;
+}
+.pay-tips img{
+    width: 2.2rem;
+    height: auto;
+    margin: 0 .2rem;
+    display: inline-block;
+}
+.swept-content{
+    width: 95%;
+    background: #fff;
+    margin: 0 auto;
+    padding-top: 0.5rem;
+    border-radius: .4rem;
+    position: relative;
+}
+
+.swept-content .swept-QRcode{
+    width: 160px;
+    height: 168px;
+    position: relative;
+    margin: 1.5rem auto;
+
+}
+.swept-content .swept-QRcode>table{
+    width: 100%;
+    height: 100%;
+}
+.swept-content .swept-QRcode .QRcode-img{
+    width: 100%;
+    height: 100%;
+}
+.swept-content .swept-QRcode .pay-logo{
+    width: 5rem;
+    height: auto;
+    z-index: 999;
+    position: absolute;
+    top:0;
+    left:0;
+    right: 0;
+    bottom: 0;
+    margin: auto;
+}
+.swept-barcode label{
+    display: none;
+}
+
+.swept-content .swept-update{
+    text-align: center;
+    white-space:nowrap;
+}
+.swept-content .swept-update img{
+    width: 2.2rem;
+    height: 2.2rem;
+}
+.swept-content .swept-update p{
+    font-size: 1.2rem;
+    color: #666666;
+    display: inline-block;
+}
+.swept-content .swept-number{
+    text-align: center;
+    font-size: 1.4rem;
+    color: #666666;
+    padding: 1.5rem 0;
+    background: #f3f3f3;
+    border-bottom-left-radius: .4rem;
+    border-bottom-right-radius: .4rem;
+}
+.swept-scan{
+    text-align: center;
+    margin-top: 3rem;
+}
+.swept-scan a{
+    display: inline-block;
+    color: #fff;
+}
+.swept-scan img{
+    width: 6rem;
+    height: 6rem;
+    margin: 0 auto;
+    display: block;
+}
+.page-bottom{
+    color: #fff;
+}
+.page-bottom .col-xs-3 {
+    border-top: 1px solid #fff;
+}
+/*密码弹框*/
+.css-money .css-money-top{
+    text-align: center;
+    font-family: PingFangSC-Medium;
+    font-size: 1.6rem;
+    color: #4995EF;
+}
+.css-money .css-money-top img{
+    width: 2.4rem;
+    height: 2.4rem;
+}
+.css-money .css-money-top span{
+    margin-left: .5rem;
+}
+.css-money p{
+    font-family: ArialMT;
+    font-size: 3.4rem;
+    color: #333333;
+    text-align: center;
+}
+
+/*4.14修改*/
+#bcTarget{
+    margin: 0 auto;
+    /*height: 10rem;*/
+}
+#myModal .js-css-alert{
+    margin-top: 50%;
+    width: 75%;
+    top: 0;
+}
+/*密码框样式*/
+body.modal-open {
+    position: fixed;
+    width: 100%;
+}
+
+.modal-dialog.js-css-Payment {
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    margin: 0;
+}
+.modal-header {
+    border-bottom: none;
+}
+/*输入支付密码*/
+.js-Payment-Money{display: none;}
+.modal-header .close {
+    margin-top: 0;
+}
+.css-fol-left{float: left;}
+.css-Payment{border-top: 1px solid #E5E5E5;padding-top: 1rem;}
+/*6个密码框*/
+.mm_box {margin: 1rem auto; height: 4rem; overflow: hidden; border: 1px solid #bebebe; padding: 0;}
+.mm_box li { border-right: 1px solid #d9d9d9; height: 4rem; float: left; background: #FFF; }
+.mm_box li.mmdd{ background:#FFF url(../img/dd_03.jpg) center no-repeat ; background-size:25%;}
+.mm_box li:last-child { border-right: none; }
+/*忘记密码*/
+.css-Payment-p{padding-right: 1.5rem;height: 3rem;line-height: 3rem;}
+.css-Payment-p a{color: #4995EF;font-size: 1.5rem;}
+/*数字键盘*/
+.nub_ggg { border: 1px solid #dadada; overflow: hidden; border-bottom: none; margin-bottom: 0;}
+.nub_ggg li {border-bottom: 1px solid #dadada; float: left; text-align: center; font-size: 2.5rem; padding: 0;font-family: ArialMT;}
+.nub_ggg li.zj_x { border-left: 1px solid #dadada; border-right: 1px solid #dadada; }
+.nub_ggg li a { display: block; color: #000; height: 5rem; line-height: 5rem; overflow: hidden; font-family: ArialMT;}
+.nub_ggg li a:active { background: #e0e0e0;}
+
+/*弹框*/
+.modal-dialog.js-css-alert{
+    width: 80%;
+    margin: 2rem auto;
+    top: 30%;
+}
+.modal-dialog.js-css-alert .modal-content .modal-body{
+    font-family: PingFangSC-Regular;
+    color: #000;
+    font-size: 1.5rem;
+    border-bottom:1px solid #e5e5e5;
+    line-height: 2.4rem;
+    padding: 2.5rem 0;
+}
+.modal-dialog.js-css-alert .modal-content .modal-footer{
+    margin-bottom: 0;
+    padding: 0;
+    border-top: none;
+    overflow: hidden;
+    border-radius: 0 0 2rem 2rem;
+}
+.modal-dialog.js-css-alert .modal-content .modal-footer .btn{
+    height: 5rem;
+    font-size: 1.8rem;
+    font-weight: bold;
+    color: #666;
+    padding-left: 1.5rem;
+    border-radius: 0;
+}
+.modal-dialog.js-css-alert .modal-content .modal-footer .btn:nth-child(1){
+    border:none;
+}
+.modal-dialog.js-css-alert .modal-content .modal-footer .btn:nth-child(2){
+    color: #508CF1;margin-left: 0;border:none;border-left: 1px solid #e5e5e5;
+}
+.modal-dialog.js-css-alert .modal-content .btn.css-Btn{
+    color: #508CF1;font-size: 2rem;height: 4rem;width: 100%;font-weight: bold;border: none;
+}
+.js-Payment5,.js-Payment6,.js-Tim{display: none;}
+
+/*条形码样式*/
+#barcode3{
+    display: block;
+    margin: 0 auto;
+    width: 90%;
+    /*height: 10rem;*/
+}
+
+
+
+.cloes-img{
+    /*transform:rotate(90deg);*/
+    /*-webkit-transform:rotate(90deg);*/
+    /*-moz-transform:rotate(90deg);*/
+
+    /*position:absolute;*/
+    /*top: 50%;*/
+    /*left: 50%;*/
+    /*transform: translate(-50%,-50%);*/
+}
+
+/*.cloes-img{*/
+    /*animation:0.5s linear myfirst;*/
+    /*-moz-animation:0.5s linear myfirst;*/
+    /*-webkit-animation:0.5s linear myfirst;*/
+    /*-o-animation:0.5s linear myfirst;*/
+    /*animation-fill-mode:forwards;*/
+    /*-webkit-animation-fill-mode:forwards;*/
+/*}*/
+
+/*@keyframes myfirst*/
+/*{*/
+    /*from {transform:rotate(0deg) scale(0);}*/
+    /*to {transform:rotate(90deg) scale(1);}*/
+/*}*/
+
+/*@-moz-keyframes myfirst*/
+/*{*/
+    /*from {-moz-transform:rotate(0deg) scale(0);}*/
+    /*to {-moz-transform:rotate(90deg) scale(1);}*/
+/*}*/
+
+/*@-webkit-keyframes myfirst*/
+/*{*/
+    /*from {-webkit-transform:rotate(0deg) scale(0);}*/
+    /*to {-webkit-transform:rotate(90deg) scale(1);}*/
+/*}*/
+
+/*@-o-keyframes myfirst*/
+/*{*/
+    /*from {-o-transform:rotate(0deg) scale(1);}*/
+    /*to {-o-transform:rotate(90deg) scale(1);}*/
+/*}*/
+
+.window{
+    z-index: 9999;
+    position: fixed;
+    width: 100%;
+    height: 100%;
+    left: 50%;
+    top: 50%;
+    visibility: hidden;
+    opacity: 0;
+    background-color: #fff;
+
+    -webkit-transition: all 0.5s;
+    -webkit-transform: translateX(-50%) translateY(-50%) scale(0.6);
+}
+.window .cloes-img{
+    position:absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+}
+.window .cloes-img img{
+    transform:rotate(90deg) scale(1);
+    -webkit-transform:rotate(90deg) scale(1);
+    -moz-transform:rotate(90deg) scale(1);
+}
+.window-show{
+    visibility: visible;
+    opacity: 1;
+    -webkit-transform: translateX(-50%) translateY(-50%) scale(1);
+}
+/*.window .QRCodeLogo{*/
+/*width: 160px;*/
+/*height: auto;*/
+/*position: relative;*/
+/*margin: 55% auto;*/
+/*}*/
+/*.window .QRCodeLogo table{*/
+/*width: 22rem;*/
+/*height: 22rem;*/
+
+/*}*/
+/*.window .QRCodeLogo .pay-logo{*/
+/*width: 5rem;*/
+/*height: auto;*/
+/*z-index: 999;*/
+/*position: absolute;*/
+/*top: 0;*/
+/*left: 0;*/
+/*right: 0;*/
+/*bottom: 0;*/
+/*margin: auto;*/
+/*}*/
+/*模态框样式*/
+#myModalTips{
+    padding-top: 45%;
+}
+#myModalTips .modal-dialog{
+    margin: 4rem;
+}
+#myModalTips .modal-footer{
+    text-align: center;
+    padding:0.5rem 0;
+}
+#myModalTips .modal-footer .btn-primary{
+    border: none;
+    outline:none;
+    width: 100%;
+    font-size: 1.8rem;
+    color: #508CF1;
+    background: none;
+}
+#myModalTips .modal-body{
+    padding: 2rem 1.5rem;
+}
+#myModalTips .modal-body img{
+    width: 90%;
+    height: auto;
+    margin: 0 auto;
+    display: block;
+}
+#myModalTips .modal-body p{
+    font-size: 1.5rem;
+    color: #888888;
+    padding: 0 1.5rem;
+    margin: 0;
+    text-align: center;
+}
+#codeBtn{
+    cursor: pointer;
+}
+/*无可用付款码*/
+.swept-nothing{
+    padding: 4rem 0;
+    /*display: none;*/
+}
+.swept-nothing img{
+    width: 5rem;
+    height: 5rem;
+    display: block;
+    margin: 0 auto;
+}
+.swept-nothing p{
+    font-size: 16px;
+    color: #666666;
+    padding: 1rem 4.5rem;
+    margin-bottom: 12rem;
+    text-align: center;
+}
+.swept-nothing input{
+    width: 65%;
+    display: block;
+    margin: 0 auto;
+    padding: 0.8rem 0;
+    background: #FFFFFF;
+    border: 1px solid #358DF6;
+    border-radius: 5px;
+    font-size: 18px;
+    color: #4995EF;
+}
+/*占位图*/
+#bcTarget .barcode-bitmap{
+    background: #efefef;
+    width: 90%;
+    height: 90%;
+    display: block;
+    margin: 0 auto;
+    margin-top: 0.5rem;
+    padding-top: 1rem;
+}
+#bcTarget .barcode-bitmap img{
+    width: 4.2rem;
+    height: 4.2rem;
+    display: block;
+    margin: 0 auto;
+}
+#bcTarget .barcode-bitmap p{
+    text-align: center;
+    font-size: 1.2rem;
+    color: #DEDEDE;
+    margin-top: 1rem;
+}
+.swept-QRcode .QRcode-bitmap{
+    background: #efefef;
+    width: 100%;
+    height: 100%;
+    padding-top: 4.5rem;
+}
+.swept-QRcode .QRcode-bitmap img{
+    width: 4.2rem;
+    height: 4.2rem;
+    display: block;
+    margin: 0 auto;
+}
+.swept-QRcode .QRcode-bitmap p{
+    text-align: center;
+    font-size: 1.2rem;
+    color: #DEDEDE;
+    margin-top: 1rem;
+}

@@ -1,0 +1,17 @@
+{
+  "name": "www",
+  "homepage": "https://github.com/chensi1993/backupFile",
+  "authors": [
+    "chensi <1293614194@qq.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}

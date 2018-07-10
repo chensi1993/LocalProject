@@ -1,0 +1,162 @@
+html,body{
+    height: 100%;
+}
+.container{
+    height: 100%;
+    pointer-events:  auto;
+}
+/*label*/
+.page-label{
+    padding: 2rem 0;
+    margin-top: .5rem;
+    background: #fff;
+
+}
+.page-label .label-img{
+    text-align: center;
+}
+.page-label .label-img:nth-child(1){
+    padding-right: 0;
+}
+.page-label .label-img:nth-child(2){
+    padding-left: 0;
+}
+.page-label .label-img img{
+    width: 5.6rem;
+    height: 5.6rem;
+}
+.page-label .label-img p{
+    font-size: 1.5rem;
+    color: #999999;
+    margin: .8rem 0 0 0;
+}
+/*center*/
+.page-center{
+    background: #fff;
+    margin-top: .5rem;
+    padding: 1rem 1.5rem 1.5rem 1.5rem;
+    font-size: 16px;
+    color: #FF9A63;
+    font-weight: bold;
+}
+.page-center h3{
+    font-size: 1.6rem;
+    color: #999999;
+    margin: 0;
+    padding-top: 1rem;
+}
+.center-info{
+    margin-top: 1.5rem;
+    padding: .5rem 0;
+    border-radius: .4rem;
+    box-shadow: 1px 1px 1px 1px #efeff4;
+}
+.center-info .info-title img{
+    width: 3.4rem;
+    height: 3.4rem;
+    margin-left: 2rem;
+}
+.center-info .info-num{
+    margin-left: 5.2rem;
+    margin-top: 1.5rem;
+}
+.center-info .info-tips{
+    font-size: 1.3rem;
+    text-align: right;
+    margin-right: 3rem;
+    font-weight: normal;
+}
+/*banner*/
+.page-banner{
+    background: #fff;
+    padding: 1.5rem;
+    margin-top: .5rem;
+}
+.page-banner .banner-img{
+
+}
+.page-banner .banner-img img{
+    width: 100%;
+    height: auto;
+}
+
+/*modal css*/
+#myModal .modal-dialog{
+    margin-top: 70%;
+}
+#myModal .modal-dialog .modal-content{
+    width: 75%;
+    margin: auto;
+}
+#myModal .modal-body{
+    font-size: 1.5rem;
+    color: #888888;
+}
+#myModal .modal-footer{
+    padding: 0.6rem 1.5rem;
+}
+#myModal .modal-footer .btn-danger{
+    background: none;
+    border: none;
+    outline: none;
+    width: 100%;
+    font-size: 1.8rem;
+    color: #508CF1;
+}
+
+/*我的信息*/
+.content-info{
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    display: none;
+    z-index: 999;
+}
+.myInfo{
+    height: 100%;
+
+}
+.myInfo .info-left{
+    height: 100%;
+    background: #f8f8f8;
+}
+.myInfo .info-left h3{
+    font-size: 1.7rem;
+    color: #000000;
+}
+.info-left .info-list{
+    margin-top: 1.5rem;
+}
+.info-left .info-list p{
+    font-size: 1.2rem;
+    color: #AAAAAA;
+    margin: 0;
+}
+.info-left .info-list .info-li{
+    background: #fff;
+    padding: 1.5rem;
+    border-top: 1px solid #e5e5e5;
+    border-bottom: 1px solid #e5e5e5;
+    font-size: 1.6rem;
+    color: #666666;
+}
+.info-left .info-list .info-top{
+    border-top: none;
+}
+.info-list .info-li span{
+    padding: 0;
+}
+.info-list .info-li span:nth-child(1){
+
+}
+.info-list .info-li span:nth-child(2)>img{
+    width: .6rem;
+    height: auto;
+}
+.myInfo .info-right{
+    height: 100%;
+    background: #999;
+    opacity: 0.6;
+    pointer-events:  auto;
+}

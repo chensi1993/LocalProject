@@ -1,0 +1,121 @@
+html,body{
+    width: 100%;
+    height: 100%;
+    overflow: hidden;
+}
+input{
+    border: none;
+    outline:none;
+    background: none;
+}
+.contain{
+    width: 100%;
+    height: 100%;
+}
+.GLTop-nav{
+    background: url("img/navigation .png") no-repeat;
+    background-size: 100% 100%;
+    padding: 0 26px;
+    height: 67px;
+    z-index: 999;
+}
+.GLTop-nav .col-xs-5,.GLTop-nav .col-xs-7{
+    line-height: 67px;
+}
+.GLTop-nav .col-xs-5 img{
+    width: 119px;
+    height: auto;
+}
+.GLTop-nav .col-xs-5 span{
+    margin-left: 5px;
+    border-left: 1px solid #294056;
+    color: #294056;
+    padding-left: 5px;
+    font-size: 16px;
+    height: 20px;
+    line-height: 20px;
+}
+.GLTop-nav .col-xs-7{
+    font-family: SourceHanSansCN-Normal;
+    text-align: right;
+    font-size: 14px;
+    /*padding-top: 8px;*/
+}
+.GLTop-nav .col-xs-7 .helpCenter{
+    color: #1875CE;
+    margin-right: 20px;
+}
+.GLTop-nav .col-xs-7 .hotLine{
+    color: #000000;
+}
+.GLCenter{
+    height: 100%;
+    background: url("img/AreaColor3.jpg") no-repeat;
+    background-size: 100% 100%;
+}
+.GLCenter .form-list{
+    width: 300px;
+    margin: 0 auto;
+    padding-top: 12%;
+}
+.GLCenter .form-list .form-li{
+    overflow: hidden;
+    border-bottom: 1px solid #fff;
+    height: 60px;
+
+}
+.GLCenter .form-list .form-li img{
+    float: left;
+    width: 25px;
+    height: auto;
+    margin: 10px;
+}
+.GLCenter .form-list .form-li input{
+    height: 52px;
+    line-height: 52px;
+    font-size: 14px;
+    margin-left: 20px;
+    float: left;
+}
+.form-li input::-webkit-input-placeholder { /* WebKit browsers */
+    opacity: 0.5;
+    filter:alpha(opacity=50);
+    font-family: STHeitiSC-Light;
+    font-size: 14px;
+    color: #FFFFFF;
+}
+.form-li input:-moz-placeholder { /* Mozilla Firefox 4 to 18 */
+    opacity: 0.5;
+    filter:alpha(opacity=50);
+    font-family: STHeitiSC-Light;
+    font-size: 14px;
+    color: #FFFFFF;
+}
+.form-li input::-moz-placeholder { /* Mozilla Firefox 19+ */
+    opacity: 0.5;
+    filter:alpha(opacity=50);
+    font-family: STHeitiSC-Light;
+    font-size: 14px;
+    color: #FFFFFF;
+}
+.form-li input:-ms-input-placeholder { /* Internet Explorer 10+ */
+    opacity: 0.5;
+    filter:alpha(opacity=50);
+    font-family: STHeitiSC-Light;
+    font-size: 13px;
+    color: #FFFFFF;
+}
+.LoginBtn{
+    opacity: 0.5;
+    background: #FFFFFF;
+    border-radius: 25px;
+    -moz-border-radius:25px; /* 老的 Firefox */
+    font-family: SourceHanSansCN-Medium;
+    font-size: 15px;
+    color: #39486C;
+    display: block;
+    margin: 50px auto;
+    width: 78%;
+    height: 50px;
+    line-height: 50px;
+}

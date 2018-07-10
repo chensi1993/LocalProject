@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+<head lang="en">
+    <meta charset="UTF-8">
+    <title></title>
+</head>
+<body>
+<button type="button" id="btn1">下载一个zip（方法1）</button>
+<button type="button" id="btn2">下载一个zip（方法2）</button>
+<script src="../js/jquery-3.0.0.min.js"></script>
+<script>
+    var $eleBtn1 = $("#btn1");
+    var $eleBtn2 = $("#btn2");
+
+    //已知一个下载文件的后端接口：
+//    https://codeload.github.com/douban/douban-client/legacy.zip/master
+//方法一：window.open()
+            $eleBtn1.click(function(){
+                var url = "https://codeload.github.com/douban/douban-client/legacy.zip/master";
+                window.open(url);
+            });
+
+    //方法二：通过form
+    $eleBtn2.click(function(){
+        var $eleForm = $("<form method='get'></form>");
+
+        $eleForm.attr("action","https://codeload.github.com/douban/douban-client/legacy.zip/master");
+
+        $(document.body).append($eleForm);
+
+        //提交表单，实现下载
+        $eleForm.submit();
+    });
+</script>
+</body>
+</html>

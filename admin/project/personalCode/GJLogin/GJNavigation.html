@@ -1,0 +1,152 @@
+<!DOCTYPE html>
+<html>
+<head lang="en">
+    <meta charset="UTF-8">
+    <title></title>
+    <link rel="stylesheet" href="bootstrap-3.3.7/css/bootstrap.min.css"/>
+    <style>
+        html,body{
+            width: 100%;
+            height: 100%;
+            overflow: hidden;
+        }
+        input{
+            border: none;
+            outline:none;
+            background: none;
+        }
+        .contain{
+            width: 100%;
+            height: 100%;
+        }
+        .GLNav{
+            background: url("img/navigation .png") no-repeat;
+            background-size: 100% 100%;
+            padding: 0 26px;
+            height: 67px;
+            line-height: 67px;
+        }
+        .GLNav .col-xs-2 img{
+            width: 119px;
+            height: auto;
+        }
+        .GLNav .col-xs-6{
+            line-height: 67px;
+        }
+        .GLNav .col-xs-4{
+            font-family: SourceHanSansCN-Normal;
+            text-align: right;
+            font-size: 14px;
+            padding-right: 150px;
+        }
+        .GLNav .col-xs-4 .navSpan{
+            font-size: 18px;
+            color: #FFFFFF;
+        }
+        .GLNav .col-xs-4 .navSpan:nth-child(1){
+            padding-right: 20px;
+            border-right: 1px solid #fff;
+        }
+        .GLNav .col-xs-4 .navSpan:nth-child(2){
+            padding-left: 20px;
+        }
+        .GLNav .col-xs-4 .navSpan img{
+            width: 15px;
+            margin-right: 10px;
+        }
+
+
+
+
+        .navbar-default{
+            background: none;
+            border: none;
+            margin-bottom: 0;
+        }
+        .navbar-default .navbar-nav>li>a{
+            font-size: 16px;
+            color: #fff;
+            padding: 0 30px;
+            line-height: 67px;
+        }
+        .navbar-default .navbar-nav>li>a:focus, .navbar-default .navbar-nav>li>a:hover{
+            color: #337ab7;
+        }
+        .navbar-default .navbar-nav>.open>a, .navbar-default .navbar-nav>.open>a:focus, .navbar-default .navbar-nav>.open>a:hover{
+            background: none;
+            color: #337ab7;
+        }
+        .dropdown-menu>li>a{
+            text-align: center;
+            padding: 5px 5px;
+        }
+        .dropdown-menu{
+            left: -20%;
+        }
+    </style>
+</head>
+<body>
+<div class="contain">
+    <div class="GLNav row">
+        <div class="col-xs-2">
+            <img src="img/zllogo.png" alt=""/>
+        </div>
+        <div class="col-xs-6">
+            <nav class="navbar navbar-default" role="navigation">
+                <div class="container-fluid">
+                    <ul class="nav navbar-nav">
+                        <li class="dropdown">
+                            <a href="#" class="dropdown-toggle" data-toggle="dropdown">用户管理</a>
+                            <ul class="dropdown-menu">
+                                <li><a href="#">企业管理</a></li>
+                                <li><a href="#">角色管理</a></li>
+                                <li><a href="#">管理员管理</a></li>
+                                <li><a href="#">操作员管理</a></li>
+                                <li><a href="#">用户管理审核</a></li>
+
+                            </ul>
+                        </li>
+                        <li class="dropdown">
+                            <a href="#" class="dropdown-toggle" data-toggle="dropdown">账户管理</a>
+                            <ul class="dropdown-menu">
+                                <li><a href="#">融资账户管理</a></li>
+                                <li><a href="#">资金订单管理</a></li>
+                            </ul>
+                        </li>
+                        <li class="dropdown">
+                            <a href="#" class="dropdown-toggle" data-toggle="dropdown">产品管理</a>
+                            <ul class="dropdown-menu">
+                                <li><a href="#">项目列表</a></li>
+                                <li><a href="#">融资产品列表</a></li>
+                                <li><a href="#">操作订单页表</a></li>
+                            </ul>
+                        </li>
+                    </ul>
+                </div>
+            </nav>
+        </div>
+        <div class="col-xs-4">
+            <span class="navSpan">产品发行企业</span>
+            <span class="navSpan"><img src="img/individual.png" alt=""/><span id="userName">yul</span></span>
+        </div>
+    </div>
+</div>
+<script type="text/javascript" src="jquery-3.0.0.min.js"></script>
+<script type="text/javascript" src="bootstrap-3.3.7/js/bootstrap.min.js"></script>
+<script>
+    $(document).ready(function()
+    {
+
+        $('.dropdown').hover(function()
+                {
+                    $(this).find('.dropdown-menu').slideDown();
+                },
+                function()
+                {
+                    $(this).find('.dropdown-menu').slideUp();
+
+                });
+    });
+</script>
+</body>
+</html>

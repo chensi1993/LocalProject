@@ -1,0 +1,78 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+    <title>正式版本</title>
+    <meta charset="utf-8">
+    <meta http-equiv="pragma" content="no-cache">
+    <meta http-equiv="cache-control" content="no-cache">
+    <meta http-equiv="expires" content="0">
+    <meta http-equiv="keywords" content="keyword1,keyword2,keyword3">
+    <meta http-equiv="description" content="This is my page">
+    <meta name="viewport"
+          content="initial-scale=1,width=device-width, maximum-scale=1, minimum-scale=1, user-scalable=no">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta content="yes" name="apple-touch-fullscreen">
+    <meta name="App-Config" content="fullscreen=yes,useHistoryState=yes,transition=yes">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black">
+    <meta name="format-detection" content="telephone=no,email=no">
+    <link rel="stylesheet" type="text/css" href="./css/demo.css">
+    <link rel="stylesheet" type="text/css" href="./css/microdone-h5.css">
+	<link rel="stylesheet" type="text/css" href="./css/index2.css">
+
+
+</head>
+<body>
+<form id="form1" name="form1" method="post" action="decrypt.jsp">
+    <div id="Main">
+        <div id="InputBlock">
+            <div>
+                <table id="LoginBtn">
+                    <tr>
+                        <td class="default">
+                            输入交易密码
+                        </td>
+                    </tr>
+                </table>
+            </div>
+        </div>
+    </div>
+    <input type="hidden" name="password" id="password" value=""/>
+    <input type="hidden" name="repassword" id="repassword" value=""/>
+    <!--模拟6个格子-->
+    <div class="cover">
+        <div class="cover-Div">
+			<!--头部-->
+            <div class="cover-header">
+				<p class="close">&lt;</p>
+				<p class="title">请输入支付密码</p>
+            </div>
+			<!--店铺名，支付金额-->
+			<div class="css-money">
+				<div class="css-money-top">
+					<img src="img/v1mxshanghu@2x.png" alt=""/><span id="shop-name">沙县小吃</span>
+				</div>
+				<p id="shop-money">100.00元</p>
+			</div>
+			<!--密码框-->
+            <div class="pay">
+                <input type="text" readonly="readonly" id="kb1" name="input3" class="default NoneInput90" maxlength="50" tabindex="3"/>
+                <ul class="kb1">
+                    <li style="border-left:1px solid #999999"></li>
+                    <li></li>
+                    <li></li>
+                    <li></li>
+                    <li></li>
+                    <li></li>
+                </ul>
+            </div>
+			<!--忘记密码-->
+			<p class="text-right css-Payment-p"><a href="#">忘记支付密码?</a></p>
+        </div>
+    </div>
+</form>
+<script type="text/javascript" src="./js/jquery-3.0.0.min.js"></script>
+<script type="text/javascript" src="./js/demo.js"></script>
+<script type="text/javascript" src="./js/microdoneH5.js"></script>
+<script type="text/javascript" src="./js/index2.js"></script>
+</body>
+</html>

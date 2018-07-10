@@ -1,0 +1,168 @@
+<!DOCTYPE html>
+<html>
+<head lang="en">
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width,initial-scale=1,minimum-scale=1,maximum-scale=1,user-scalable=no" />
+    <meta name="keywords" content="" />
+    <meta name="description" content="" />
+    <meta name="format-detection" content="telephone=no"/>
+    <meta name="author" content="zlzf-cs" />
+    <title></title>
+    <!--引入bootstrap样式-->
+    <link type="text/css" rel="stylesheet" href="resources/bootstrap-3.3.7/css/bootstrap.min.css">
+    <link rel="stylesheet" href="resources/css/common_mqpay.css"/>
+    <style>
+        .trading-status{
+            background: #fff;
+            border-radius: .4rem;
+            margin-top: 6rem;
+            padding-top:4rem;
+            height: 30rem;
+            position: relative;
+        }
+        .trading-status img{
+            width: 7rem;
+            height: 7rem;
+            position: absolute;
+            top: -3.5rem;
+            left: 38%;
+        }
+        .trading-status h3{
+            font-size: 2rem;
+            color: #666666;
+            text-align: center;
+            margin-bottom: 4rem;
+        }
+        .trading-status .trading-info{
+            overflow: hidden;
+        }
+        .trading-status .trading-info span{
+            white-space:nowrap;
+            overflow:hidden;
+            /*text-overflow: ellipsis;*/
+            font-family: ArialMT;
+            font-size: 1.4rem;
+            color: #666666;
+        }
+        .trading-status .trading-info span:nth-child(1){
+            padding-right: 0;
+        }
+        .trading-status .trading-info span:nth-child(2){
+            text-align: right;
+        }
+        .trading-status .trading-care{
+            padding-top: 2rem;
+            display: none;
+        }
+        .trading-status .trading-care p{
+            margin: 0;
+        }
+        .trading-status .trading-care p:nth-child(1){
+            text-align: center;
+            margin-bottom: .5rem;
+        }
+        .trading-status .trading-care .care-p{
+            padding-left: 4.5rem;
+        }
+        .modal-body{
+            padding-top: 2rem;
+            text-align: center;
+            font-size: 1.7rem;
+            color: #666666;
+        }
+        .modal-content{
+        	margin: 0 2rem;
+        }
+        .modal .modal-dialog{
+            width: 90%;
+            margin: 12rem auto;
+            border-radius: .6rem;
+        }
+        .signPhone_btn .modal .modal-dialog .modal-content{
+            border-radius: .8rem;
+        }
+        .modal-footer button{
+            border: none;
+            background: none;
+            font-size: 1.8rem;
+        }
+        #modal_left{
+            color: #999;
+        }
+        #modal_right{
+            margin-left: 0;
+			color: #508CF1;
+        }
+        #telPhoneNum{
+        	color: #ff5612;
+		    background: none;
+		    border-color: #fff;
+		    font-size: 1.4rem;
+        }
+    </style>
+</head>
+<body>
+<div class="container">
+    <!--top-->
+    <div class="page-top row">
+        <div class="top-image col-xs-2"><a href=""><img src="resources/img/v1return.png" alt=""/>返回</a></div>
+        <h3 class="col-xs-8">小胖沙县</h3>
+        <div class="top-image col-xs-2"></div>
+    </div>
+    <!--status-->
+    <div class="trading-status">
+        <img src="resources/img/v1wrong@2x.png" alt=""/>
+        <h3>交易状态未知</h3>
+        <!--<h3>交易失败</h3>-->
+        <!--交易订单号-->
+        <div class="trading-info">
+            <span class="col-xs-3">交易订单号</span>
+            <span class="col-xs-9">12345678901234567890123456</span>
+        </div>
+        <div class="trading-info">
+            <span class="col-xs-3">支付金额</span>
+            <span class="col-xs-9">￥100.00</span>
+        </div>
+
+        <div class="trading-care">
+            <p>如您的资金账号已扣款，请咨询客服</p>
+            <p class="care-p">客服热线：<span id="telPhoneNum" class="btn btn-primary btn-lg btn_left" data-toggle="modal" data-target="#myModal">400-660-0961</span></p>
+            <!-- 模态框（Modal） -->
+            <div class="modal fade" id="myModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+                <div class="modal-dialog">
+                    <div class="modal-content">
+                        <div class="modal-body">
+                           400-600-961
+                        </div>
+                        <div class="modal-footer">
+                            <button type="button" id="modal_left" class="btn btn-default col-xs-6" data-dismiss="modal">取消</button>
+                            <!--2017-8-18“400-600961”修改为“400-600-961”-->
+                            <button type="button" id="modal_right" class="btn col-xs-6"><a href="tel:400-600-961">拨打</a> </button>
+                        </div>
+                    </div><!-- /.modal-content -->
+                </div><!-- /.modal -->
+            </div>
+            <p class="care-p">客服时间：<span>周一至周五&nbsp&nbsp&nbsp&nbsp09:00-18:00</span><br/><span style="margin-left: 5.8rem">(法定节假日另行通知)</span></p>
+        </div>
+
+    </div>
+    <!--bottom-->
+    <div class="page-bottom">
+        <span class="col-xs-3"></span>
+        <div class="col-xs-6"><span>由证联支付提供技术支持</span></div>
+        <span class="col-xs-3"></span>
+    </div>
+</div>
+<script type="text/javascript" src="resources/js/jquery-3.0.0.min.js"></script>
+<script type="text/javascript" src="resources/bootstrap-3.3.7/js/bootstrap.min.js"></script>
+<script type="text/javascript">
+	$(function(){
+		
+	});
+	function showFun(){
+		//交易失败状态显示客服电话和时间
+		$(".trading-status").find(".trading-care").CSS("display","block");
+	}
+</script>
+</body>
+</html>
