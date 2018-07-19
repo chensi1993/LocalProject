@@ -1,0 +1,200 @@
+<!DOCTYPE html>
+<html>
+<head lang="en">
+    <meta charset="UTF-8">
+    <title></title>
+    <link rel="stylesheet" href="resources/layui-v2.3.0/layui/css/layui.css"/>
+    <link rel="stylesheet" href="resources/css/admin.css"/>
+</head>
+<body class="layui-layout-body">
+<div id="LAY_app">
+    <div class="layui-layout layui-layout-admin">
+        <div class="layui-header">
+            <!-- 头部区域 -->
+            <ul class="layui-nav layui-layout-left">
+                <li class="layui-nav-item layadmin-flexible" lay-unselect>
+                    <a href="javascript:;" layadmin-event="flexible" title="侧边伸缩">
+                        <i class="layui-icon layui-icon-shrink-right" id="LAY_app_flexible"></i>
+                    </a>
+                </li>
+                <li class="layui-nav-item layui-hide-xs" lay-unselect>
+                    <input type="text" placeholder="请输入您需要查找的内容..." autocomplete="off" class="layui-input layui-input-search" layadmin-event="serach" lay-action="template/search.html?keywords=">
+                </li>
+            </ul>
+            <ul class="layui-nav layui-layout-right" lay-filter="layadmin-layout-right">
+                <li class="layui-nav-item" lay-unselect>
+                    <a href="javascript:;">
+                        <i class="layui-icon layui-icon-username"></i>
+                        <cite>admin</cite>
+                    </a>
+                </li>
+                <li class="layui-nav-item" lay-unselect>
+                    <a href="javascript:;" layadmin-event="logout" style="text-align: center;">
+                        <cite>退出</cite>
+                    </a>
+                </li>
+
+                <!--<li class="layui-nav-item layui-show-xs-inline-block layui-hide-sm" lay-unselect>-->
+                    <!--<a href="javascript:;" layadmin-event="more"><i class="layui-icon layui-icon-more-vertical"></i></a>-->
+                <!--</li>-->
+            </ul>
+        </div>
+        <!--侧边菜单-->
+        <div class="layui-side layui-side-menu">
+            <div class="layui-side-scroll">
+                <div class="layui-logo" lay-href="">
+                    <img class="layui-logo-img layui-circle" src="resources/img/avatar.jpg" alt=""/>
+                    <a class="layui-logo-a" href="javascript:;">
+                        <span>admin</span>
+                        <span>(ID:10002)</span>
+                        <span class="layui-logo-a-user">认证用户<i class="layui-icon layui-icon-triangle-d"></i></span>
+                        <ul class="layui-logo-ul" style="display: none;">
+                            <li>修改密码</li>
+                            <li>安全退出</li>
+                            <!--<li><a href="">修改密码</a></li>-->
+                            <!--<li><a href="">安全退出</a></li>-->
+                        </ul>
+                    </a>
+
+                </div>
+                <ul class="layui-nav layui-nav-tree" id="LAY-system-side-menu" lay-filter="layadmin-system-side-menu" lay-shrink="all">
+                    <li data-name="center" class="layui-nav-item layui-nav-itemed">
+                        <a href="javascript:;" lay-tips="管理中心" lay-direction="2">
+                            <i class="layui-icon layui-icon-home"></i>
+                            <cite>管理中心</cite>
+                        </a>
+                        <dl class="layui-nav-child">
+                            <dd data-name="console" class="layui-this"><a lay-href="">控制面板</a></dd>
+                        </dl>
+                    </li>
+                    <li data-name="Recharge" class="layui-nav-item">
+                        <a href="javascript:;" lay-tips="充值入口" lay-direction="2">
+                            <i class="layui-icon layui-icon-dollar"></i>
+                            <cite>充值入口</cite>
+                        </a>
+                        <dl class="layui-nav-child">
+                            <dd data-name="QRcode"><a lay-href="">充值二维码</a></dd>
+                            <dd data-name="link"><a lay-href="">充值链接</a></dd>
+                        </dl>
+                    </li>
+                    <li data-name="notice" class="layui-nav-item">
+                        <a href="javascript:;" lay-tips="公告" lay-direction="2">
+                            <i class="layui-icon layui-icon-speaker"></i>
+                            <cite>公告</cite>
+                        </a>
+                        <dl class="layui-nav-child">
+                            <dd><a lay-href="">站内公告</a></dd>
+                        </dl>
+                    </li>
+                    <li data-name="message" class="layui-nav-item">
+                        <a href="javascript:;" lay-tips="账户管理" lay-direction="2">
+                            <i class="layui-icon layui-icon-username"></i>
+                            <cite>账户管理</cite>
+                        </a>
+                        <dl class="layui-nav-child">
+                            <dd><a lay-href="">基本信息</a></dd>
+                            <dd><a lay-href="">银行卡管理</a></dd>
+                            <dd><a lay-href="">认证信息</a></dd>
+                            <dd><a lay-href="">登录密码</a></dd>
+                            <dd><a lay-href="">支付密码</a></dd>
+                            <dd><a lay-href="">登录记录</a></dd>
+                            <dd><a lay-href="">Google身份验证</a></dd>
+                        </dl>
+                    </li>
+                    <li data-name="finance" class="layui-nav-item">
+                        <a href="javascript:;" lay-tips="财务管理" lay-direction="2">
+                            <i class="layui-icon layui-icon-dollar"></i>
+                            <cite>财务管理</cite>
+                        </a>
+                        <dl class="layui-nav-child">
+                            <dd><a lay-href="">资金记录</a></dd>
+                            <dd><a lay-href="">通道分析</a></dd>
+                        </dl>
+                    </li>
+                    <li data-name="accounts" class="layui-nav-item">
+                        <a href="javascript:;" lay-tips="结算管理" lay-direction="2">
+                            <i class="layui-icon layui-icon-ok"></i>
+                            <cite>结算管理</cite>
+                        </a>
+                        <dl class="layui-nav-child">
+                            <dd><a lay-href="">结算申请</a></dd>
+                            <dd><a lay-href="">代付申请</a></dd>
+                            <dd><a lay-href="">结算记录</a></dd>
+                            <dd><a lay-href="">代付记录</a></dd>
+                        </dl>
+                    </li>
+                    <li data-name="order" class="layui-nav-item">
+                        <a href="javascript:;" lay-tips="订单管理" lay-direction="2">
+                            <i class="layui-icon layui-icon-form"></i>
+                            <cite>订单管理</cite>
+                        </a>
+                        <dl class="layui-nav-child">
+                            <dd><a lay-href="">所有订单</a></dd>
+                            <dd><a lay-href="">成功订单</a></dd>
+                            <dd><a lay-href="">手工补发</a></dd>
+                            <dd><a lay-href="">未支付订单</a></dd>
+                        </dl>
+                    </li>
+                    <li data-name="api" class="layui-nav-item">
+                        <a href="javascript:;" lay-tips="API管理" lay-direction="2">
+                            <i class="layui-icon layui-icon-file"></i>
+                            <cite>API管理</cite>
+                        </a>
+                        <dl class="layui-nav-child">
+                            <dd><a lay-href="">查看通道费率</a></dd>
+                            <dd><a lay-href="">API开发文档</a></dd>
+                        </dl>
+                    </li>
+                </ul>
+            </div>
+        </div>
+
+        <!-- 页面标签 -->
+        <div class="layadmin-pagetabs" id="LAY_app_tabs">
+            <div class="layui-icon layadmin-tabs-control layui-icon-prev" layadmin-event="leftPage"></div>
+            <div class="layui-icon layadmin-tabs-control layui-icon-next" layadmin-event="rightPage"></div>
+            <div class="layui-icon layadmin-tabs-control layui-icon-down">
+                <ul class="layui-nav layadmin-tabs-select" lay-filter="layadmin-pagetabs-nav">
+                    <li class="layui-nav-item" lay-unselect>
+                        <a href="javascript:;"></a>
+                        <dl class="layui-nav-child layui-anim-fadein">
+                            <dd layadmin-event="closeThisTabs"><a href="javascript:;">关闭当前标签页</a></dd>
+                            <dd layadmin-event="closeOtherTabs"><a href="javascript:;">关闭其它标签页</a></dd>
+                            <dd layadmin-event="closeAllTabs"><a href="javascript:;">关闭全部标签页</a></dd>
+                        </dl>
+                    </li>
+                </ul>
+            </div>
+            <div class="layui-tab" lay-unauto lay-allowClose="true" lay-filter="layadmin-layout-tabs">
+                <ul class="layui-tab-title" id="LAY_app_tabsheader">
+                    <li lay-id="home/console.html" lay-attr="home/console.html" class="layui-this"><i class="layui-icon layui-icon-home"></i></li>
+                </ul>
+            </div>
+        </div>
+
+        <!-- 主体内容 -->
+        <div class="layui-body" id="LAY_app_body">
+            <div class="layadmin-tabsbody-item layui-show">
+                <iframe src="" frameborder="0" class="layadmin-iframe"></iframe>
+            </div>
+        </div>
+
+    </div>
+</div>
+<script type="text/javascript" src="resources/layui-v2.3.0/layui/layui.all.js"></script>
+<script type="text/javascript" src="resources/js/jquery-3.0.0.min.js"></script>
+<script type="text/javascript" src="resources/js/index.js"></script>
+<script>
+//    layui.config({
+//        base: '../ZLPayment/' //静态资源所在路径
+//    }).extend({
+//        index: 'index' //主入口模块
+//    }).use('index');
+
+
+
+
+
+</script>
+</body>
+</html>
