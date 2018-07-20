@@ -1,0 +1,69 @@
+[{
+	"title" : "管理中心",
+	"icon" : "&#xe68e;",
+	"href" : "",
+	"spread" : false,
+	"children" : [
+	  {
+		"title" : "控制面板",
+		"href" : "",
+		"spread" : false
+	  }
+	]
+},{
+  "title" : "管理中心",
+  "icon" : "&#xe68e;",
+  "href" : "",
+  "spread" : false,
+  "children" : [
+	{
+	  "title" : "控制面板",
+	  "href" : "",
+	  "spread" : false
+	}
+  ]
+},{
+  "title" : "管理中心",
+  "icon" : "&#xe68e;",
+  "href" : "",
+  "spread" : false,
+  "children" : [
+	{
+	  "title" : "控制面板",
+	  "href" : "",
+	  "spread" : false
+	}
+  ]
+},{
+  "title" : "管理中心",
+  "icon" : "&#xe68e;",
+  "href" : "",
+  "spread" : false,
+  "children" : [
+	{
+	  "title" : "控制面板",
+	  "href" : "",
+	  "spread" : false
+	}
+  ]
+},{
+	"title" : "其他页面",
+	"icon" : "&#xe630;",
+	"href" : "",
+	"spread" : false,
+	"children" : [
+		{
+			"title" : "404页面",
+			"icon" : "&#xe61c;",
+			"href" : "page/404.html",
+			"spread" : false
+		},
+		{
+			"title" : "登录",
+			"icon" : "&#xe609;",
+			"href" : "page/login/login.html",
+			"spread" : false,
+			"target" : "_blank"
+		}
+	]
+}]
