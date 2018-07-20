@@ -83,6 +83,8 @@ ul,li{
 }
 .choose-plan li{
     display: inline-block;
+    *display:inline;
+    *zoom:1;
     width: 139px;
     margin: 15px 70px;
 }

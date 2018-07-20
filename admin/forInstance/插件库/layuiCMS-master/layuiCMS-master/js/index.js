@@ -1,7 +1,7 @@
 var $,tab,skyconsWeather;
 layui.config({
-	base : "js/"
-}).use(['bodyTab','form','element','layer','jquery'],function(){
+	base : "js/"  //存放新模版的目录
+}).use(['bodyTab','form','element','layer','jquery'],function(){  //加载入口
 	var form = layui.form(),
 		layer = layui.layer,
 		element = layui.element();
