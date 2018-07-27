@@ -2,151 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="76c54407-4596-437b-9271-003310348b64" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/project/personalCode/zlzf_master/layui/images/face/0.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/project/personalCode/zlzf_master/layui/images/face/1.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/project/personalCode/zlzf_master/layui/images/face/10.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/project/personalCode/zlzf_master/layui/images/face/11.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/project/personalCode/zlzf_master/layui/images/face/12.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/project/personalCode/zlzf_master/layui/images/face/13.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/project/personalCode/zlzf_master/layui/images/face/14.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/project/personalCode/zlzf_master/layui/images/face/15.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/project/personalCode/zlzf_master/layui/images/face/16.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/project/personalCode/zlzf_master/layui/images/face/17.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/project/personalCode/zlzf_master/layui/images/face/18.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/project/personalCode/zlzf_master/layui/images/face/19.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/project/personalCode/zlzf_master/layui/images/face/2.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/project/personalCode/zlzf_master/layui/images/face/20.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/project/personalCode/zlzf_master/layui/images/face/21.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/project/personalCode/zlzf_master/layui/images/face/22.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/project/personalCode/zlzf_master/layui/images/face/23.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/project/personalCode/zlzf_master/layui/images/face/24.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/project/personalCode/zlzf_master/layui/images/face/25.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/project/personalCode/zlzf_master/layui/images/face/26.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/project/personalCode/zlzf_master/layui/images/face/27.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/project/personalCode/zlzf_master/layui/images/face/28.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/project/personalCode/zlzf_master/layui/images/face/29.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/project/personalCode/zlzf_master/layui/images/face/3.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/project/personalCode/zlzf_master/layui/images/face/30.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/project/personalCode/zlzf_master/layui/images/face/31.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/project/personalCode/zlzf_master/layui/images/face/32.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/project/personalCode/zlzf_master/layui/images/face/33.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/project/personalCode/zlzf_master/layui/images/face/34.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/project/personalCode/zlzf_master/layui/images/face/35.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/project/personalCode/zlzf_master/layui/images/face/36.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/project/personalCode/zlzf_master/layui/images/face/37.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/project/personalCode/zlzf_master/layui/images/face/38.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/project/personalCode/zlzf_master/layui/images/face/39.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/project/personalCode/zlzf_master/layui/images/face/4.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/project/personalCode/zlzf_master/layui/images/face/40.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/project/personalCode/zlzf_master/layui/images/face/41.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/project/personalCode/zlzf_master/layui/images/face/42.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/project/personalCode/zlzf_master/layui/images/face/43.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/project/personalCode/zlzf_master/layui/images/face/44.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/project/personalCode/zlzf_master/layui/images/face/45.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/project/personalCode/zlzf_master/layui/images/face/46.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/project/personalCode/zlzf_master/layui/images/face/47.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/project/personalCode/zlzf_master/layui/images/face/48.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/project/personalCode/zlzf_master/layui/images/face/49.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/project/personalCode/zlzf_master/layui/images/face/5.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/project/personalCode/zlzf_master/layui/images/face/50.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/project/personalCode/zlzf_master/layui/images/face/51.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/project/personalCode/zlzf_master/layui/images/face/52.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/project/personalCode/zlzf_master/layui/images/face/53.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/project/personalCode/zlzf_master/layui/images/face/54.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/project/personalCode/zlzf_master/layui/images/face/55.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/project/personalCode/zlzf_master/layui/images/face/56.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/project/personalCode/zlzf_master/layui/images/face/57.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/project/personalCode/zlzf_master/layui/images/face/58.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/project/personalCode/zlzf_master/layui/images/face/59.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/project/personalCode/zlzf_master/layui/images/face/6.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/project/personalCode/zlzf_master/layui/images/face/60.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/project/personalCode/zlzf_master/layui/images/face/61.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/project/personalCode/zlzf_master/layui/images/face/62.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/project/personalCode/zlzf_master/layui/images/face/63.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/project/personalCode/zlzf_master/layui/images/face/64.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/project/personalCode/zlzf_master/layui/images/face/65.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/project/personalCode/zlzf_master/layui/images/face/66.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/project/personalCode/zlzf_master/layui/images/face/67.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/project/personalCode/zlzf_master/layui/images/face/68.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/project/personalCode/zlzf_master/layui/images/face/69.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/project/personalCode/zlzf_master/layui/images/face/7.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/project/personalCode/zlzf_master/layui/images/face/70.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/project/personalCode/zlzf_master/layui/images/face/71.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/project/personalCode/zlzf_master/layui/images/face/8.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/project/personalCode/zlzf_master/layui/images/face/9.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/project/personalCode/zlzf_master/images/alipay.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/project/personalCode/zlzf_master/images/code.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/project/personalCode/zlzf_master/images/face.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/project/personalCode/zlzf_master/layui/css/modules/layer/default/icon-ext.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/project/personalCode/zlzf_master/layui/css/modules/layer/default/icon.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/project/personalCode/zlzf_master/layui/font/iconfont.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/project/personalCode/zlzf_master/layui/font/iconfont.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/project/personalCode/zlzf_master/layui/font/iconfont.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/project/personalCode/zlzf_master/layui/css/modules/layer/default/loading-0.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/project/personalCode/zlzf_master/layui/css/modules/layer/default/loading-1.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/project/personalCode/zlzf_master/layui/css/modules/layer/default/loading-2.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/project/personalCode/zlzf_master/page/login/login.mp4" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/project/personalCode/zlzf_master/images/userface1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/project/personalCode/zlzf_master/images/userface2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/project/personalCode/zlzf_master/images/userface3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/project/personalCode/zlzf_master/images/userface4.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/project/personalCode/zlzf_master/images/userface5.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/project/personalCode/zlzf_master/images/wechat.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/project/personalCode/zlzf_master/page/404.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/project/personalCode/zlzf_master/js/bodyTab.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/project/personalCode/zlzf_master/layui/css/modules/code.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/project/personalCode/zlzf_master/layui/lay/modules/code.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/project/personalCode/zlzf_master/layui/lay/modules/element.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/project/personalCode/zlzf_master/layui/lay/modules/flow.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/project/personalCode/zlzf_master/layui/lay/modules/form.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/project/personalCode/zlzf_master/layui/font/iconfont.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/project/personalCode/zlzf_master/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/project/personalCode/zlzf_master/js/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/project/personalCode/zlzf_master/layui/lay/modules/jquery.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/project/personalCode/zlzf_master/layui/css/modules/laydate/default/laydate.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/project/personalCode/zlzf_master/layui/lay/modules/laydate.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/project/personalCode/zlzf_master/layui/lay/modules/layedit.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/project/personalCode/zlzf_master/layui/css/modules/layer/default/layer.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/project/personalCode/zlzf_master/layui/lay/modules/layer.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/project/personalCode/zlzf_master/layui/lay/modules/laypage.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/project/personalCode/zlzf_master/layui/lay/modules/laytpl.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/project/personalCode/ZLPayment/resources/layui-v2.3.0/layui/lay/dest/layui.all.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/project/personalCode/zlzf_master/layui/lay/dest/layui.all.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/project/personalCode/zlzf_master/layui/css/layui.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/project/personalCode/zlzf_master/layui/layui.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/project/personalCode/zlzf_master/layui/css/layui.mobile.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/project/personalCode/zlzf_master/js/leftNav.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/project/personalCode/zlzf_master/css/login.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/project/personalCode/zlzf_master/page/login/login.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/project/personalCode/zlzf_master/page/login/login.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/project/personalCode/zlzf_master/css/main.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/project/personalCode/zlzf_master/page/main.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/project/personalCode/zlzf_master/js/main.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/project/personalCode/zlzf_master/layui/lay/modules/mobile.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/project/personalCode/zlzf_master/json/navs.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/project/personalCode/zlzf_master/json/newsList.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/project/personalCode/zlzf_master/layui/lay/modules/tree.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/project/personalCode/zlzf_master/layui/lay/modules/upload.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/project/personalCode/zlzf_master/layui/lay/modules/util.js" />
-      <change type="DELETED" beforePath="C:\LocalProject\admin\project\personalCode\ZLPayment\resources\layui-v2.3.0\layui\lay\modules\carousel.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\LocalProject\admin\project\personalCode\ZLPayment\resources\layui-v2.3.0\layui\lay\modules\rate.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\LocalProject\admin\project\personalCode\ZLPayment\resources\layui-v2.3.0\layui\lay\modules\table.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\LocalProject\admin\project\personalCode\ZLPayment\resources\layui-v2.3.0\layui\layui.all.js" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/admin/project/personalCode/ZLPayment/resources/layui-v2.3.0/layui/lay/modules/code.js" afterPath="$PROJECT_DIR$/admin/project/personalCode/ZLPayment/resources/layui-v2.3.0/layui/lay/modules/code.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/admin/project/personalCode/ZLPayment/resources/layui-v2.3.0/layui/lay/modules/element.js" afterPath="$PROJECT_DIR$/admin/project/personalCode/ZLPayment/resources/layui-v2.3.0/layui/lay/modules/element.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/admin/project/personalCode/ZLPayment/resources/layui-v2.3.0/layui/lay/modules/flow.js" afterPath="$PROJECT_DIR$/admin/project/personalCode/ZLPayment/resources/layui-v2.3.0/layui/lay/modules/flow.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/admin/project/personalCode/ZLPayment/resources/layui-v2.3.0/layui/lay/modules/form.js" afterPath="$PROJECT_DIR$/admin/project/personalCode/ZLPayment/resources/layui-v2.3.0/layui/lay/modules/form.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/admin/forInstance/插件库/layuiCMS-master/layuiCMS-master/index.html" afterPath="$PROJECT_DIR$/admin/forInstance/插件库/layuiCMS-master/layuiCMS-master/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/admin/project/personalCode/ZLPayment/resources/layui-v2.3.0/layui/lay/modules/jquery.js" afterPath="$PROJECT_DIR$/admin/project/personalCode/ZLPayment/resources/layui-v2.3.0/layui/lay/modules/jquery.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/admin/project/personalCode/ZLPayment/resources/layui-v2.3.0/layui/lay/modules/laydate.js" afterPath="$PROJECT_DIR$/admin/project/personalCode/ZLPayment/resources/layui-v2.3.0/layui/lay/modules/laydate.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/admin/project/personalCode/ZLPayment/resources/layui-v2.3.0/layui/lay/modules/layedit.js" afterPath="$PROJECT_DIR$/admin/project/personalCode/ZLPayment/resources/layui-v2.3.0/layui/lay/modules/layedit.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/admin/project/personalCode/ZLPayment/resources/layui-v2.3.0/layui/lay/modules/layer.js" afterPath="$PROJECT_DIR$/admin/project/personalCode/ZLPayment/resources/layui-v2.3.0/layui/lay/modules/layer.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/admin/project/personalCode/ZLPayment/resources/layui-v2.3.0/layui/lay/modules/laypage.js" afterPath="$PROJECT_DIR$/admin/project/personalCode/ZLPayment/resources/layui-v2.3.0/layui/lay/modules/laypage.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/admin/project/personalCode/ZLPayment/resources/layui-v2.3.0/layui/lay/modules/laytpl.js" afterPath="$PROJECT_DIR$/admin/project/personalCode/ZLPayment/resources/layui-v2.3.0/layui/lay/modules/laytpl.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/admin/project/personalCode/ZLPayment/resources/layui-v2.3.0/layui/lay/modules/mobile.js" afterPath="$PROJECT_DIR$/admin/project/personalCode/ZLPayment/resources/layui-v2.3.0/layui/lay/modules/mobile.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/admin/project/personalCode/ZLPayment/resources/layui-v2.3.0/layui/lay/modules/tree.js" afterPath="$PROJECT_DIR$/admin/project/personalCode/ZLPayment/resources/layui-v2.3.0/layui/lay/modules/tree.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/admin/project/personalCode/ZLPayment/resources/layui-v2.3.0/layui/lay/modules/upload.js" afterPath="$PROJECT_DIR$/admin/project/personalCode/ZLPayment/resources/layui-v2.3.0/layui/lay/modules/upload.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/admin/project/personalCode/ZLPayment/resources/layui-v2.3.0/layui/lay/modules/util.js" afterPath="$PROJECT_DIR$/admin/project/personalCode/ZLPayment/resources/layui-v2.3.0/layui/lay/modules/util.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/project/personalCode/zlzf_master/page/manageCenter/controlPanel.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/admin/forInstance/插件库/layuiCMS-master/layuiCMS-master/js/leftNav.js" afterPath="$PROJECT_DIR$/admin/forInstance/插件库/layuiCMS-master/layuiCMS-master/js/leftNav.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/admin/project/personalCode/zlzf_master/json/navs.json" afterPath="$PROJECT_DIR$/admin/project/personalCode/zlzf_master/json/navs.json" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="LocalProject.iws" />
@@ -171,11 +29,85 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/admin/project/personalCode/zlzf_master/index.html">
+      <file leaf-file-name="newsList.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/admin/forInstance/插件库/layuiCMS-master/layuiCMS-master/page/news/newsList.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-22.733334" vertical-offset="0" max-vertical-offset="2904">
-              <caret line="62" column="31" selection-start-line="62" selection-start-column="31" selection-end-line="62" selection-end-column="31" />
+            <state vertical-scroll-proportion="1.4666667" vertical-offset="814" max-vertical-offset="1672">
+              <caret line="33" column="57" selection-start-line="33" selection-start-column="49" selection-end-line="33" selection-end-column="57" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="bigshot_merchant.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/admin/project/personalCode/微信证联大咖/微信三期/resources/js/bigshot_merchant.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="512" max-vertical-offset="3344">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="bigshot_area.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/admin/project/personalCode/微信证联大咖/微信三期/resources/js/bigshot_area.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="330">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="newsList.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/admin/forInstance/插件库/layuiCMS-master/layuiCMS-master/page/news/newsList.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-6.8561645" vertical-offset="6006" max-vertical-offset="6886">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding>
+                <marker date="1525657013000" expanded="false" signature="2056:2087" placeholder="..." />
+                <marker date="1525657013000" expanded="false" signature="2350:2381" placeholder="..." />
+                <marker date="1525657013000" expanded="false" signature="9153:9163" placeholder="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="news.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/admin/forInstance/插件库/layuiCMS-master/layuiCMS-master/css/news.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="242">
+              <caret line="5" column="26" selection-start-line="5" selection-start-column="26" selection-end-line="5" selection-end-column="26" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/admin/project/personalCode/ZLDemo/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-15.129032" vertical-offset="1335" max-vertical-offset="2354">
+              <caret line="82" column="12" selection-start-line="82" selection-start-column="12" selection-end-line="82" selection-end-column="12" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="GJLogin.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/admin/project/personalCode/GJLogin/GJLogin.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="1012">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="GJNavigation.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/admin/project/personalCode/GJLogin/GJNavigation.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="82.80645" vertical-offset="2567" max-vertical-offset="3454">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -184,74 +116,20 @@
       <file leaf-file-name="index.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/admin/project/personalCode/zlzf_master/js/index.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="5742">
-              <caret line="28" column="16" selection-start-line="28" selection-start-column="8" selection-end-line="28" selection-end-column="16" />
+            <state vertical-scroll-proportion="0.0" vertical-offset="3366" max-vertical-offset="5368">
+              <caret line="17" column="32" selection-start-line="17" selection-start-column="32" selection-end-line="17" selection-end-column="32" />
               <folding>
-                <marker date="1532077810159" expanded="false" signature="3001:3107" placeholder="..." />
-                <marker date="1532077810159" expanded="false" signature="7502:7550" placeholder="..." />
-                <marker date="1532077810159" expanded="false" signature="7645:7693" placeholder="..." />
+                <element signature="e#674#1344#0" expanded="false" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="bodyTab.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/admin/project/personalCode/zlzf_master/js/bodyTab.js">
+      <file leaf-file-name="tab.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/admin/forInstance/插件库/layui后端模板/BeginnerAdmin/tab.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-13.103448" vertical-offset="60" max-vertical-offset="5940">
-              <caret line="20" column="37" selection-start-line="20" selection-start-column="37" selection-end-line="20" selection-end-column="37" />
-              <folding>
-                <element signature="n#!!doc" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="login.js" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/admin/project/personalCode/zlzf_master/page/login/login.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.5272331" vertical-offset="0" max-vertical-offset="918">
-              <caret line="22" column="6" selection-start-line="22" selection-start-column="6" selection-end-line="22" selection-end-column="6" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="login.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/admin/project/personalCode/zlzf_master/page/login/login.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-13.709678" vertical-offset="103" max-vertical-offset="990">
-              <caret line="24" column="97" selection-start-line="24" selection-start-column="89" selection-end-line="24" selection-end-column="97" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="login.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/admin/project/personalCode/zlzf_master/css/login.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="308">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="navs.json" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/admin/project/personalCode/zlzf_master/json/navs.json">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-24.35484" vertical-offset="741" max-vertical-offset="1628">
-              <caret line="68" column="2" selection-start-line="68" selection-start-column="2" selection-end-line="68" selection-end-column="2" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="main.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/admin/project/personalCode/zlzf_master/page/main.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-12.064516" vertical-offset="0" max-vertical-offset="638">
-              <caret line="17" column="39" selection-start-line="17" selection-start-column="31" selection-end-line="17" selection-end-column="39" />
+            <state vertical-scroll-proportion="-95.09677" vertical-offset="0" max-vertical-offset="3388">
+              <caret line="134" column="41" selection-start-line="134" selection-start-column="41" selection-end-line="134" selection-end-column="41" />
               <folding />
             </state>
           </provider>
@@ -361,7 +239,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="zlzf_master" />
+              <option name="myItemId" value="微信证联大咖" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -388,74 +266,6 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="zlzf_master" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="page" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="LocalProject" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="LocalProject" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="admin" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="project" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="personalCode" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="zlzf_master" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="page" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="login" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="LocalProject" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="LocalProject" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="admin" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="project" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="personalCode" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="zlzf_master" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="json" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -503,36 +313,6 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="project" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="personalCode" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="zlzf_master" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="css" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="LocalProject" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="LocalProject" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="admin" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
               <option name="myItemId" value="forInstance" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
@@ -556,6 +336,70 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="插件库" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="LocalProject" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="LocalProject" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="admin" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="forInstance" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="插件库" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="layui后端模板" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="BeginnerAdmin" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="LocalProject" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="LocalProject" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="admin" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="forInstance" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="插件库" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="layui后端模板" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="BeginnerAdmin" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="views" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -620,6 +464,82 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="page" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="LocalProject" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="LocalProject" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="admin" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="forInstance" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="插件库" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="layuiCMS-master" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="layuiCMS-master" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="page" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="news" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="LocalProject" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="LocalProject" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="admin" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="forInstance" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="插件库" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="layuiCMS-master" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="layuiCMS-master" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="page" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="message" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -687,6 +607,120 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
+              <option name="myItemId" value="layui" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="lay" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="modules" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="LocalProject" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="LocalProject" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="admin" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="forInstance" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="插件库" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="layuiCMS-master" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="layuiCMS-master" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="layui" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="lay" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="LocalProject" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="LocalProject" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="admin" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="forInstance" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="插件库" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="layuiCMS-master" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="layuiCMS-master" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="js" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="LocalProject" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="LocalProject" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="admin" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="forInstance" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="插件库" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="layuiCMS-master" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="layuiCMS-master" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
               <option name="myItemId" value="css" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
@@ -707,7 +741,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="true" />
-    <property name="last_opened_file_path" value="C:/gitSpace/merchant-platform/src/main/webapp" />
+    <property name="last_opened_file_path" value="C:/工作/WebContent02" />
     <property name="HbShouldOpenHtmlAsHb" value="" />
     <property name="editorconfig.notification" value="Applied .editorconfig settings" />
     <property name="FullScreen" value="false" />
@@ -724,6 +758,8 @@
       <recent name="C:\LocalProject\admin\project\personalCode\ZLPayment\resources\layui-v2.3.0\layui" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\LocalProject\admin\project\personalCode\zlzf_master" />
+      <recent name="C:\LocalProject\admin\project\personalCode\zlzf_master\resources" />
       <recent name="C:\LocalProject\admin\forInstance\插件库" />
       <recent name="C:\LocalProject\admin\forInstance" />
     </key>
@@ -794,8 +830,8 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="false" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
@@ -803,9 +839,7 @@
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.13958333" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32946146" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.175" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
@@ -813,7 +847,9 @@
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32946146" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32946146" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
     </layout>
@@ -835,241 +871,12 @@
     </option>
   </component>
   <component name="XDebuggerManager">
-    <breakpoint-manager />
+    <breakpoint-manager>
+      <option name="time" value="2" />
+    </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/admin/project/personalCode/ZLPayment/resources/css/index.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.1937355" vertical-offset="2165" max-vertical-offset="31284">
-          <caret line="106" column="12" selection-start-line="106" selection-start-column="12" selection-end-line="106" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/admin/forInstance/插件库/layuiCMS-master/layuiCMS-master/README.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.23775388" vertical-offset="197" max-vertical-offset="1034">
-          <caret line="18" column="23" selection-start-line="18" selection-start-column="23" selection-end-line="18" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/admin/forInstance/插件库/layuiCMS-master/layuiCMS-master/favicon.ico">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/admin/forInstance/插件库/layuiCMS-master/layuiCMS-master/page/404.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="875">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/admin/forInstance/插件库/layuiCMS-master/layuiCMS-master/page/main.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-0.4765343" vertical-offset="396" max-vertical-offset="3784">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/admin/forInstance/插件库/layui后端模板/BeginnerAdmin/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="990" max-vertical-offset="3036">
-          <caret line="20" column="99" selection-start-line="20" selection-start-column="96" selection-end-line="20" selection-end-column="99" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/admin/forInstance/插件库/layui后端模板/BeginnerAdmin/navbar.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="5742">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/admin/forInstance/插件库/layuiCMS-master/layuiCMS-master/js/main.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="1370" max-vertical-offset="2288">
-          <caret line="68" column="16" selection-start-line="68" selection-start-column="16" selection-end-line="68" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/admin/forInstance/插件库/layuiCMS-master/layuiCMS-master/js/index.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="4422">
-          <caret line="3" column="72" selection-start-line="3" selection-start-column="72" selection-end-line="3" selection-end-column="72" />
-          <folding>
-            <element signature="e#368#808#0" expanded="false" />
-            <element signature="e#853#4978#0" expanded="false" />
-            <element signature="e#9896#10304#0" expanded="false" />
-            <element signature="e#10358#11446#0" expanded="false" />
-            <element signature="e#11497#11875#0" expanded="false" />
-            <element signature="n#!!block;n#donation#0" expanded="false" />
-            <marker date="1531993651550" expanded="false" signature="-1:-1" placeholder="..." />
-            <marker date="1531993651550" expanded="false" signature="-1:-1" placeholder="..." />
-            <marker date="1531993651550" expanded="false" signature="-1:-1" placeholder="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/admin/forInstance/插件库/amazeUI/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-66.70968" vertical-offset="0" max-vertical-offset="12034">
-          <caret line="94" column="31" selection-start-line="94" selection-start-column="31" selection-end-line="94" selection-end-column="31" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/admin/forInstance/插件库/amazeUI/assets/js/app.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="440">
-          <caret line="14" column="22" selection-start-line="14" selection-start-column="22" selection-end-line="14" selection-end-column="22" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/admin/forInstance/插件库/layui后端模板/BeginnerAdmin/index.1.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-0.7096774" vertical-offset="110" max-vertical-offset="2882">
-          <caret line="6" column="28" selection-start-line="6" selection-start-column="28" selection-end-line="6" selection-end-column="28" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/admin/forInstance/插件库/amazeUI/assets/js/amazeui.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="3036" max-vertical-offset="390060">
-          <caret line="285" column="39" selection-start-line="285" selection-start-column="39" selection-end-line="285" selection-end-column="39" />
-          <folding>
-            <element signature="n#!!doc" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/admin/forInstance/插件库/layuiCMS-master/layuiCMS-master/page/login/login.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.16775599" vertical-offset="0" max-vertical-offset="918">
-          <caret line="7" column="32" selection-start-line="7" selection-start-column="32" selection-end-line="7" selection-end-column="32" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/admin/forInstance/插件库/layuiCMS-master/layuiCMS-master/page/login/login.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.6527621" vertical-offset="103" max-vertical-offset="990">
-          <caret line="31" column="97" selection-start-line="31" selection-start-column="97" selection-end-line="31" selection-end-column="97" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/admin/forInstance/插件库/layuiCMS-master/layuiCMS-master/json/message.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1122">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/admin/forInstance/插件库/layuiCMS-master/layuiCMS-master/json/linksList.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="918">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/admin/forInstance/插件库/layuiCMS-master/layuiCMS-master/json/images.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="2178">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/admin/forInstance/插件库/layuiCMS-master/layuiCMS-master/page/message/message.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1034">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/admin/forInstance/插件库/layuiCMS-master/layuiCMS-master/page/links/linksAdd.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-0.7361894" vertical-offset="653" max-vertical-offset="1540">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/admin/forInstance/插件库/layuiCMS-master/layuiCMS-master/page/systemParameter/systemParameter.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-44.0" vertical-offset="0" max-vertical-offset="2442">
-          <caret line="62" column="21" selection-start-line="62" selection-start-column="21" selection-end-line="62" selection-end-column="21" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/admin/forInstance/插件库/layuiCMS-master/layuiCMS-master/json/navs.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.669673" vertical-offset="0" max-vertical-offset="1012">
-          <caret line="27" column="30" selection-start-line="27" selection-start-column="30" selection-end-line="27" selection-end-column="30" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/admin/forInstance/插件库/layuiCMS-master/layuiCMS-master/json/newsList.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="5412">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/admin/forInstance/插件库/layuiCMS-master/layuiCMS-master/images/userface5.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/admin/forInstance/插件库/layuiCMS-master/layuiCMS-master/images/wechat.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/admin/forInstance/插件库/layuiCMS-master/layuiCMS-master/images/userface2.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/admin/forInstance/插件库/layuiCMS-master/layuiCMS-master/images/userface1.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/admin/forInstance/插件库/layuiCMS-master/layuiCMS-master/images/face.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/admin/forInstance/插件库/layuiCMS-master/layuiCMS-master/images/code.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/admin/forInstance/插件库/layuiCMS-master/layuiCMS-master/images/alipay.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/admin/project/personalCode/zlzf_master/json/newsList.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.20631342" vertical-offset="4525" max-vertical-offset="5412">
-          <caret line="214" column="25" selection-start-line="214" selection-start-column="25" selection-end-line="214" selection-end-column="25" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/admin/project/personalCode/ZLPayment/resources/js/bodyTab.js">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="5874">
@@ -1082,7 +889,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-122.064514" vertical-offset="0" max-vertical-offset="4400">
           <caret line="172" column="0" selection-start-line="172" selection-start-column="0" selection-end-line="172" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1090,31 +896,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.09723757" vertical-offset="0" max-vertical-offset="905">
           <caret line="4" column="26" selection-start-line="4" selection-start-column="26" selection-end-line="4" selection-end-column="26" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/admin/project/personalCode/zlzf_master/js/main.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="2288">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/admin/forInstance/插件库/layuiCMS-master/layuiCMS-master/js/leftNav.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.8801743" vertical-offset="138" max-vertical-offset="1518">
-          <caret line="43" column="14" selection-start-line="43" selection-start-column="14" selection-end-line="43" selection-end-column="14" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/admin/forInstance/插件库/layuiCMS-master/layuiCMS-master/js/bodyTab.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.3889503" vertical-offset="308" max-vertical-offset="5874">
-          <caret line="35" column="0" selection-start-line="35" selection-start-column="0" selection-end-line="35" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1133,14 +914,6 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/admin/forInstance/插件库/layuiCMS-master/layuiCMS-master/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-9.225806" vertical-offset="286" max-vertical-offset="3388">
-          <caret line="26" column="50" selection-start-line="26" selection-start-column="50" selection-end-line="26" selection-end-column="50" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/admin/project/personalCode/zlzf_master/css/main.css">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.7292818" vertical-offset="242" max-vertical-offset="4158">
@@ -1149,39 +922,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/admin/project/personalCode/zlzf_master/js/leftNav.js">
+    <entry file="file://$PROJECT_DIR$/admin/project/personalCode/zlzf_master/page/login/login.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.42694065" vertical-offset="0" max-vertical-offset="1518">
-          <caret line="17" column="31" selection-start-line="17" selection-start-column="27" selection-end-line="17" selection-end-column="31" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/admin/project/personalCode/zlzf_master/json/navs.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-24.35484" vertical-offset="741" max-vertical-offset="1628">
-          <caret line="68" column="2" selection-start-line="68" selection-start-column="2" selection-end-line="68" selection-end-column="2" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/admin/project/personalCode/zlzf_master/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-22.733334" vertical-offset="0" max-vertical-offset="2904">
-          <caret line="62" column="31" selection-start-line="62" selection-start-column="31" selection-end-line="62" selection-end-column="31" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/admin/project/personalCode/zlzf_master/js/index.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="5742">
-          <caret line="28" column="16" selection-start-line="28" selection-start-column="8" selection-end-line="28" selection-end-column="16" />
-          <folding>
-            <marker date="1532077810159" expanded="false" signature="3001:3107" placeholder="..." />
-            <marker date="1532077810159" expanded="false" signature="7502:7550" placeholder="..." />
-            <marker date="1532077810159" expanded="false" signature="7645:7693" placeholder="..." />
-          </folding>
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="682">
+          <caret line="25" column="0" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
         </state>
       </provider>
     </entry>
@@ -1189,41 +933,350 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="905">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/project/personalCode/zlzf_master/page/login/login.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.47914317" vertical-offset="103" max-vertical-offset="990">
+          <caret line="24" column="97" selection-start-line="24" selection-start-column="89" selection-end-line="24" selection-end-column="97" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/project/personalCode/zlzf_master/js/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.59912854" vertical-offset="0" max-vertical-offset="2288">
+          <caret line="25" column="33" selection-start-line="25" selection-start-column="33" selection-end-line="25" selection-end-column="33" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/project/personalCode/zlzf_master/json/newsList.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-106.96774" vertical-offset="1392" max-vertical-offset="5412">
+          <caret line="214" column="25" selection-start-line="214" selection-start-column="25" selection-end-line="214" selection-end-column="25" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/admin/project/personalCode/zlzf_master/js/bodyTab.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-13.103448" vertical-offset="60" max-vertical-offset="5940">
-          <caret line="20" column="37" selection-start-line="20" selection-start-column="37" selection-end-line="20" selection-end-column="37" />
+        <state vertical-scroll-proportion="0.0" vertical-offset="4243" max-vertical-offset="5940">
+          <caret line="32" column="6" selection-start-line="32" selection-start-column="6" selection-end-line="32" selection-end-column="6" />
           <folding>
-            <element signature="n#!!doc" expanded="true" />
+            <element signature="n#!!doc" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/admin/project/personalCode/zlzf_master/page/main.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-12.064516" vertical-offset="0" max-vertical-offset="638">
-          <caret line="17" column="39" selection-start-line="17" selection-start-column="31" selection-end-line="17" selection-end-column="39" />
+        <state vertical-scroll-proportion="-3.548387" vertical-offset="0" max-vertical-offset="638">
+          <caret line="5" column="41" selection-start-line="5" selection-start-column="41" selection-end-line="5" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/project/personalCode/zlzf_master/page/manageCenter/controlPanel.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-1.4193548" vertical-offset="0" max-vertical-offset="330">
+          <caret line="2" column="16" selection-start-line="2" selection-start-column="16" selection-end-line="2" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/project/personalCode/zlzf_master/json/navs.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.34723788" vertical-offset="0" max-vertical-offset="887">
+          <caret line="14" column="21" selection-start-line="14" selection-start-column="21" selection-end-line="14" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/project/personalCode/zlzf_master/js/leftNav.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="600" max-vertical-offset="1518">
+          <caret line="28" column="59" selection-start-line="28" selection-start-column="59" selection-end-line="28" selection-end-column="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/project/personalCode/zlzf_master/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="39.032257" vertical-offset="1650" max-vertical-offset="2904">
+          <caret line="20" column="32" selection-start-line="20" selection-start-column="32" selection-end-line="20" selection-end-column="32" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/admin/project/personalCode/zlzf_master/page/login/login.html">
+    <entry file="file://$PROJECT_DIR$/admin/forInstance/插件库/layuiCMS-master/layuiCMS-master/json/navs.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-13.709678" vertical-offset="103" max-vertical-offset="990">
-          <caret line="24" column="97" selection-start-line="24" selection-start-column="89" selection-end-line="24" selection-end-column="97" />
+        <state vertical-scroll-proportion="-13.4838705" vertical-offset="0" max-vertical-offset="1012">
+          <caret line="19" column="20" selection-start-line="19" selection-start-column="20" selection-end-line="19" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/project/personalCode/ZLNetwork/ZLSolution.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.32243517" vertical-offset="198" max-vertical-offset="2222">
+          <caret line="22" column="0" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/project/personalCode/ZLNetwork/ZLMedical.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="2728">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/forInstance/插件库/layuiCMS-master/layuiCMS-master/page/news/newsAdd.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-18.67742" vertical-offset="1005" max-vertical-offset="1892">
+          <caret line="72" column="75" selection-start-line="72" selection-start-column="68" selection-end-line="72" selection-end-column="75" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/admin/project/personalCode/zlzf_master/page/login/login.js">
+    <entry file="file://$PROJECT_DIR$/admin/forInstance/插件库/layuiCMS-master/layuiCMS-master/page/news/newsAdd.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.5272331" vertical-offset="0" max-vertical-offset="918">
-          <caret line="22" column="6" selection-start-line="22" selection-start-column="6" selection-end-line="22" selection-end-column="6" />
+        <state vertical-scroll-proportion="0.0" vertical-offset="182" max-vertical-offset="1100">
+          <caret line="21" column="0" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/forInstance/插件库/layui后端模板/BeginnerAdmin/test.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-22.0" vertical-offset="0" max-vertical-offset="902">
+          <caret line="31" column="11" selection-start-line="31" selection-start-column="11" selection-end-line="31" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/forInstance/插件库/layui后端模板/BeginnerAdmin/main.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="68.129036" vertical-offset="2112" max-vertical-offset="5852">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/forInstance/插件库/layui后端模板/BeginnerAdmin/app.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="918">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/forInstance/插件库/layui后端模板/BeginnerAdmin/cop.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="3.032258" vertical-offset="94" max-vertical-offset="968">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/forInstance/插件库/layuiCMS-master/layuiCMS-master/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-4.6833334" vertical-offset="247" max-vertical-offset="3388">
+          <caret line="24" column="73" selection-start-line="24" selection-start-column="69" selection-end-line="24" selection-end-column="73" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/forInstance/插件库/layuiCMS-master/layuiCMS-master/js/leftNav.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-15.689655" vertical-offset="29" max-vertical-offset="1562">
+          <caret line="22" column="39" selection-start-line="22" selection-start-column="39" selection-end-line="22" selection-end-column="39" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/forInstance/插件库/layuiCMS-master/layuiCMS-master/page/message/message.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="3894">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/forInstance/插件库/layuiCMS-master/layuiCMS-master/page/main.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-7.2166667" vertical-offset="29" max-vertical-offset="3784">
+          <caret line="21" column="22" selection-start-line="21" selection-start-column="22" selection-end-line="21" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/forInstance/插件库/layuiCMS-master/layuiCMS-master/js/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-9.620689" vertical-offset="29" max-vertical-offset="2288">
+          <caret line="14" column="23" selection-start-line="14" selection-start-column="23" selection-end-line="14" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/forInstance/插件库/layui后端模板/BeginnerAdmin/onelevel.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1980">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/forInstance/插件库/layuiCMS-master/layuiCMS-master/js/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-22.965517" vertical-offset="456" max-vertical-offset="4664">
+          <caret line="148" column="29" selection-start-line="148" selection-start-column="29" selection-end-line="148" selection-end-column="29" />
+          <folding>
+            <element signature="e#853#4978#0" expanded="false" />
+            <element signature="e#9896#10304#0" expanded="false" />
+            <element signature="e#10358#11446#0" expanded="false" />
+            <element signature="e#11497#11875#0" expanded="false" />
+            <element signature="n#!!block;n#donation#0" expanded="false" />
+            <marker date="1531993651550" expanded="false" signature="-1:-1" placeholder="..." />
+            <marker date="1531993651550" expanded="false" signature="-1:-1" placeholder="..." />
+            <marker date="1531993651550" expanded="false" signature="-1:-1" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/forInstance/插件库/layuiCMS-master/layuiCMS-master/js/bodyTab.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-12.344828" vertical-offset="4284" max-vertical-offset="5874">
+          <caret line="216" column="41" selection-start-line="216" selection-start-column="41" selection-end-line="216" selection-end-column="41" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/forInstance/插件库/layui后端模板/BeginnerAdmin/index.1.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="48.967743" vertical-offset="1650" max-vertical-offset="2882">
+          <caret line="6" column="28" selection-start-line="6" selection-start-column="28" selection-end-line="6" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/forInstance/插件库/layui后端模板/BeginnerAdmin/views/form.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1452">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/forInstance/插件库/layui后端模板/BeginnerAdmin/index.2.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-2.2620137" vertical-offset="1977" max-vertical-offset="2882">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/forInstance/插件库/layui后端模板/BeginnerAdmin/form.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.33752862" vertical-offset="7273" max-vertical-offset="9438">
+          <caret line="344" column="52" selection-start-line="344" selection-start-column="52" selection-end-line="344" selection-end-column="52" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/forInstance/插件库/layui后端模板/BeginnerAdmin/tab.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-95.09677" vertical-offset="0" max-vertical-offset="3388">
+          <caret line="134" column="41" selection-start-line="134" selection-start-column="41" selection-end-line="134" selection-end-column="41" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/forInstance/插件库/layuiCMS-master/layuiCMS-master/css/news.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="242">
+          <caret line="5" column="26" selection-start-line="5" selection-start-column="26" selection-end-line="5" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/project/personalCode/微信证联大咖/微信三期/resources/js/bigshot_setRates.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.43137255" vertical-offset="396" max-vertical-offset="1870">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/project/personalCode/微信证联大咖/微信三期/resources/js/bigshot_merDetail.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="918">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/project/personalCode/微信证联大咖/微信三期/resources/js/bigshot_area.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="918">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/project/personalCode/微信证联大咖/微信三期/resources/js/bigshot_merchant.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="512" max-vertical-offset="3344">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/project/personalCode/ZLDemo/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-15.129032" vertical-offset="1335" max-vertical-offset="2354">
+          <caret line="82" column="12" selection-start-line="82" selection-start-column="12" selection-end-line="82" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/project/personalCode/GJLogin/GJLogin.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1012">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/project/personalCode/GJLogin/GJNavigation.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="82.80645" vertical-offset="2567" max-vertical-offset="3454">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/project/personalCode/zlzf_master/js/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="3366" max-vertical-offset="5368">
+          <caret line="17" column="32" selection-start-line="17" selection-start-column="32" selection-end-line="17" selection-end-column="32" />
+          <folding>
+            <element signature="e#674#1344#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/forInstance/插件库/layuiCMS-master/layuiCMS-master/page/news/newsList.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="1.4666667" vertical-offset="814" max-vertical-offset="1672">
+          <caret line="33" column="57" selection-start-line="33" selection-start-column="49" selection-end-line="33" selection-end-column="57" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/forInstance/插件库/layuiCMS-master/layuiCMS-master/page/news/newsList.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-6.8561645" vertical-offset="6006" max-vertical-offset="6886">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1525657013000" expanded="false" signature="2056:2087" placeholder="..." />
+            <marker date="1525657013000" expanded="false" signature="2350:2381" placeholder="..." />
+            <marker date="1525657013000" expanded="false" signature="9153:9163" placeholder="..." />
+          </folding>
         </state>
       </provider>
     </entry>

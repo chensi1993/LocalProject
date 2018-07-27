@@ -6,46 +6,11 @@
 	"children" : [
 	  {
 		"title" : "控制面板",
-		"href" : "",
+		"icon" : "&#xe61c;",
+		"href" : "page/manageCenter/controlPanel.html",
 		"spread" : false
 	  }
 	]
-},{
-  "title" : "管理中心",
-  "icon" : "&#xe68e;",
-  "href" : "",
-  "spread" : false,
-  "children" : [
-	{
-	  "title" : "控制面板",
-	  "href" : "",
-	  "spread" : false
-	}
-  ]
-},{
-  "title" : "管理中心",
-  "icon" : "&#xe68e;",
-  "href" : "",
-  "spread" : false,
-  "children" : [
-	{
-	  "title" : "控制面板",
-	  "href" : "",
-	  "spread" : false
-	}
-  ]
-},{
-  "title" : "管理中心",
-  "icon" : "&#xe68e;",
-  "href" : "",
-  "spread" : false,
-  "children" : [
-	{
-	  "title" : "控制面板",
-	  "href" : "",
-	  "spread" : false
-	}
-  ]
 },{
 	"title" : "其他页面",
 	"icon" : "&#xe630;",

@@ -2,8 +2,10 @@ function navBar(strData){
 	var data;
 	if(typeof(strData) == "string"){
 		var data = JSON.parse(strData); //部分用户解析出来的是字符串，转换一下
+		console.log(data)
 	}else{
 		data = strData;
+		console.log(data);
 	}	
 	var ulHtml = '<ul class="layui-nav layui-nav-tree">';
 	for(var i=0;i<data.length;i++){
