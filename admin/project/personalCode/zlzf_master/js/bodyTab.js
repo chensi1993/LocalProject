@@ -214,6 +214,7 @@ layui.define(["element","jquery"],function(exports){
 		var curmenu = '';
 		var menu = JSON.parse(window.sessionStorage.getItem("menu"));
 		curmenu = menu[$(this).index()-1];
+		console.log(curmenu);
 		if($(this).index() == 0){
 			window.sessionStorage.setItem("curmenu",'');
 		}else{

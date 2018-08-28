@@ -62,6 +62,7 @@ $(function(){
         console.log(setJson.length);
         setJson.push(setObj);
         console.log(setJson);
+        console.log(JSON.stringify(setJson));
 
     });
 

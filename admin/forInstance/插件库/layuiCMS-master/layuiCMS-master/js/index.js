@@ -129,6 +129,7 @@ layui.config({
 		window.sessionStorage.removeItem("menu");
 		menu = [];
 		window.sessionStorage.removeItem("curmenu");
+		document.getElementsByClassName
 	})
 
 	//隐藏左侧导航

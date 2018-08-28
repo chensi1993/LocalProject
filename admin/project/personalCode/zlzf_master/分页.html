@@ -1,0 +1,155 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <title></title>
+    <meta name="renderer" content="webkit">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="format-detection" content="telephone=no">
+    <link rel="stylesheet" href="layui/css/layui.css" media="all" />
+    <link rel="stylesheet" href="//at.alicdn.com/t/font_tnyc012u2rlwstt9.css" media="all" />
+    <style>
+        .childrenBody{
+            padding: 0 10px;
+        }
+        .layui-table, .layui-table th{
+            text-align: center;
+        }
+        #layui-list .layui-li .layui-operation{
+            position: relative;
+        }
+        #layui-list .layui-li .layui-operation .layui-ul{
+            position: absolute;
+            left: 65px;
+            z-index: 999;
+        }
+        #page{
+            text-align: right;
+        }
+    </style>
+
+</head>
+<body class="childrenBody">
+<div class="layui-form news_list">
+    <table id="tableList" class="layui-table">
+        <colgroup>
+            <col width="50">
+            <col width="16%">
+            <col width="20%">
+            <col width="15%">
+            <col width="20%">
+            <col width="10%">
+            <col width="10%">
+            <col width="">
+        </colgroup>
+        <thead>
+        <tr>
+            <!--<th></th>-->
+            <th>ID</th>
+            <th>名称</th>
+            <th>营业执照</th>
+            <th>统一社会信用代码</th>
+            <th>联系电话</th>
+            <th>创建时间</th>
+            <th>操作</th>
+        </tr>
+        </thead>
+        <tbody class="news_content" id="layui-list">
+
+        </tbody>
+    </table>
+</div>
+<div id="page"></div>
+<script type="text/javascript" src="js/jquery-3.0.0.min.js"></script>
+<script type="text/javascript" src="layui/layui.js"></script>
+<script type="text/javascript">
+    $(document).ready(function(){
+        getShopCustomerManagePageInfo();
+        toPage();
+    });
+    //分页参数设置 这些全局变量关系到分页的功能
+    var startAllAppoint = 0;
+    var limitAllAppoint = 10;
+    var currentPageAllAppoint = 1;
+    var totalPageAllAppoint = 0;
+    var dataLength = 0;
+    function getShopCustomerManagePageInfo(){
+        //加载页面数据
+        $.ajax({
+            type: "post",
+            url: "json/laypage.json",
+            contentType: "application/json; charset=utf-8",
+            dataType: "json",
+            success: function (data) {
+                getShopCustomesInfo(data);
+                startAllAppoint = 1;//当前页数(后台返回)
+                totalPageAllAppoint = data.length;//总页数(后台返回)
+            }
+        });
+    }
+    function getShopCustomesInfo(data){
+        console.log(data);
+        var dataHtml = '';
+        if(data.length != 0){
+            for(var i=0;i<data.length;i++){
+                dataHtml += '<tr class="layui-li">'
+                +'<td>'+data[i].id+'</td>'
+                +'<td>'+data[i].name+'</td>'
+                +'<td>'+data[i].licenseNo+'</td>'
+                +'<td>'+data[i].unifiedSocialCreditCode+'</td>'
+                +'<td>'+data[i].phone+'</td>'
+                +'<td>'+data[i].createDateStr+'</td>'
+                +'<td class="layui-operation"">'
+                +'<a href="javascript:;"><i class="layui-icon layui-icon-set-fill" style="color: #999"></i><i class="layui-icon layui-icon-triangle-d" style="color: #999"></i></a>'
+                +'<ul class="layui-ul" lay-filter="test" style="display: none;">'
+                +'<li class="layui-ul-li">'
+                +'<a class="layui-btn layui-status" href="javascript:;" data-method="offset" data-type="auto">查询状态</a>'
+                +'<input class="layui-auditStatus" type="hidden" value="'+data[i].auditStatus+'" />'
+                +'</li>'
+                +'<li class="layui-ul-li">'
+                +'<a class="layui-btn" href="">补录信息</a>'
+                +'</li>'
+                +'</ul>'
+                +'</td>'
+                +'</tr>';
+            }
+        }else{
+            dataHtml += '<tr><td colspan="8">暂无数据</td></tr>';
+        }
+        $(".news_content").append(dataHtml);
+    }
+
+    function toPage(){
+
+        layui.use(['form', 'laypage', 'layedit','layer', 'laydate'], function() {
+            var laypage = layui.laypage;
+
+            var nums = 10;
+            //调用分页
+            laypage({
+                cont: 'page'
+                ,pages: totalPageAllAppoint //得到总页数，在layui2.X中使用count替代了，并且不是使用"总页数"，而是"总记录条数"
+                ,curr: currentPageAllAppoint
+                ,skip: true
+                ,jump: function(obj, first){
+
+                    currentPageAllAppoint = obj.curr;
+                    startAllAppoint = (obj.curr-1)*limitAllAppoint;
+                    //document.getElementById('biuuu_city_list').innerHTML = render(obj, obj.curr);
+                    if(!first){ //一定要加此判断，否则初始时会无限刷新
+                        getShopCustomerManagePageInfo();//一定要把翻页的ajax请求放到这里，不然会请求两次。
+                        //location.href = '?page='+obj.curr;
+                    }
+                }
+            });
+
+
+        });
+    }
+
+</script>
+</body>
+</html>

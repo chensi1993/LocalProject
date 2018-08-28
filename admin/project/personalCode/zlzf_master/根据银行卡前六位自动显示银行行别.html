@@ -1,0 +1,192 @@
+<!DOCTYPE html>
+<html>
+<head lang="en">
+    <meta charset="UTF-8">
+    <title></title>
+    <meta name="renderer" content="webkit">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <meta http-equiv="Access-Control-Allow-Origin" content="*">
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="format-detection" content="telephone=no">
+    <link rel="stylesheet" href="layui/css/layui.css" media="all" />
+    <link rel="stylesheet" href="//at.alicdn.com/t/font_tnyc012u2rlwstt9.css" media="all" />
+    <link rel="stylesheet" href="css/main.css" media="all" />
+</head>
+<body>
+<form id="searchForm">
+    <input class="inp1" type="text" name="id1" value=""/>
+    <input class="inp1" type="text" name="cx1" value=""/>
+    <input class="inp1" type="text" name="id2" value=""/>
+    <input class="inp2" type="text" name="cx2" value=""/>
+    <input class="inp2" type="text" name="id3" value=""/>
+    <input class="inp2" type="text" name="cx3" value=""/>
+    <input class="inp3" type="file" name="file1" value="" disabled/>
+    <input class="inp3" type="file" name="file2" value=""/>
+    <input class="inp3" type="file" name="file3" value=""/>
+    <input type="text" disabled/>
+
+    <div class="layui-input-block">
+        <select name="legalpersonCertType" lay-verify="required" class="layui-select-opt">
+            <option value=""></option>
+            <option value="00">居民身份证</option>
+            <option value="01">护照</option>
+            <option value="02">军人证</option>
+            <option value="03">军人证</option>
+            <option value="04">回乡证</option>
+            <option value="05">居民户口簿</option>
+            <option value="06">护照</option>
+            <option value="07">其他证明文件</option>
+            <option value="08">暂住证</option>
+            <option value="09">个人其它证件</option>
+            <option value="10">军人证</option>
+            <option value="11">回乡证</option>
+            <option value="61">组织机构代码证</option>
+            <option value="62">营业执照</option>
+            <option value="63">其他证明文件</option>
+            <option value="65">社会信用代码</option>
+            <option value="69">其他证明文件</option>
+
+        </select>
+    </div>
+
+    <button class="layui-btn" lay-filter="listAction" id="listAction" type="button">保存</button>
+</form>
+<script type="text/javascript" src="layui/layui.all.js"></script>
+<script src="js/jquery-3.0.0.min.js"></script>
+<script type="text/javascript">
+    $.ajax({
+        type: "post",
+        url: "json/list.json",
+        dataType: "json",
+        success: function (data) {
+            selBankType(data.legalpersonCertType);
+        }
+    });
+    function selBankType(data){
+        console.log(data);
+        var checkVal=$(".layui-select-opt").find("option:selected").val();
+        if(data!=null && data != checkVal){
+            $(".layui-select-opt option[value='"+checkVal+"']").removeAttr("selected");//根据值去除选中状态
+            $(".layui-select-opt option[value='"+data+"']").prop("selected",true);//根据值追加选中状态
+        }
+    }
+
+//    var arr = [];
+    $("#listAction").click(function() {
+
+        $(".inp1").each(function(index,ele){
+
+            console.log(index,ele.name);
+        });
+        $(".inp3").each(function(i){
+
+        });
+
+//        console.log($("#searchForm input[type='file']")[0].name);
+//        var file = $("#searchForm input[type='file']")
+//        console.log(file);
+//
+//        var fileObj = {
+//            "name":"",
+//            "value":""
+//        };
+//        for(var i = 0;i<file.length;i++){
+////            console.log(file[i].name);
+//            var name = file[i].name;
+//            var value = file[i].value;
+//            console.log(name);
+//            console.log(value);
+//        }
+//        fileObj["name"] = name.toString();
+//        fileObj["value"] = value.toString();
+//        arr.push(fileObj);
+//        console.log(arr);
+//        $(file).each(function () {
+//            var i = $(this).index;
+//            console.log(i);
+
+//            var name = ($("#searchForm input[type='file']")[i].name);
+//            name.append(arr);
+//            console.log($("#searchForm input[type='file']")[0].name);
+//            var v = $(this).val();
+//            console.log($(this).name);
+//        });
+//        console.log(arr);
+    });
+//
+
+//    var $;
+//    layui.config({
+//        base : "js/"  //存放新模版的目录
+//    }).use(['form','layer','upload','laydate','jquery'],function(){  //加载入口
+//        var form = layui.form,
+//                layer = layui.layer,
+//                upload = layui.upload,
+//                laydate = layui.laydate;
+//        $ = layui.jquery;
+//
+//    $("#listAction").click(function(){
+//                    $("#searchForm input[type='file']").each(function(){
+//                    var v = $(this).val();
+//                    console.log(v);
+//                });
+//    });
+
+//        form.on('submit(listAction)', function(data){
+//            var formData = data.field;
+//            console.log(formData);
+
+//            $("#searchForm input[type='file']").each(function(){
+//                var v = $(this).val();
+//                console.log(v);
+//            });
+
+//        })
+//
+//
+//    });
+//    console.info($("#searchForm").serialize());
+
+
+//    (function(window, $) {
+//        $.fn.serializeJson = function() {
+//            var serializeObj = {};
+//            var array = this.serializeArray();
+//            var str = this.serialize();
+////            console.log("str"+str);
+//            $(array).each(
+//                    function() {
+//                        if (serializeObj[this.name]) {
+//                            if ($.isArray(serializeObj[this.name])) {
+//                                serializeObj[this.name].push(this.value);
+//                            } else {
+//                                serializeObj[this.name] = [
+//                                    serializeObj[this.name], this.value ];
+//                            }
+//                        } else {
+//                            serializeObj[this.name] = this.value;
+//                        }
+//                    });
+//            return serializeObj;
+//        };
+//    })(window, jQuery);
+//var serializeJson = $("#searchForm").serializeArray();
+//console.log(serializeJson);
+
+
+//var listArr = [];
+//    console.info($("#searchForm").serializeJson());
+//for(var i = 0;i<serializeJson.length;i++){
+//    var idList = $("input[name='id1']").val();
+//    console.log($("input[name='id'+i]"));
+//    console.log(idList);
+//}
+
+//$.each(serializeJson,function(i,domEle){
+//    console.log(domEle.name);
+//})
+</script>
+</body>
+</html>

@@ -1,0 +1,34 @@
+@import "bourbon";
+
+.img-wrap {
+  display: table-cell; text-align: center; vertical-align: middle;
+  img {
+    max-height:100%; max-width: 100%; display: block;
+  }
+}
+.img-placeholder {
+  @include icon-settings;
+  font-size: 6em; line-height: 1; color: #999 !important;
+  position: relative;
+
+  &::after {
+    content: $icon-var-image;
+    @include position(absolute, 50% 0 null);
+    margin-top: -.5em;
+    line-height: inherit;
+    z-index: -1;
+  }
+  &.img-error::after {
+    content: 'Load failed';
+    font-size: 20px;
+  }
+  &.img-error img {
+    display: none;
+  }
+}
+
+body { padding: 1em; }
+.list-products {
+  list-style-type: none; padding-left: 0;
+  li { float: left; padding-right: 15px; }}
+.img-wrap { width: 320px; height: 200px; border: solid 1px #dedede; }
